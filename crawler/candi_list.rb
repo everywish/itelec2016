@@ -46,14 +46,10 @@ list_doc    = Nokogiri::HTML(list_html)
 city_list   = {}
 city_html   = list_doc.css("select#cityCode")
 city_html.css("option").each do |city|
-  puts city.attribute_nodes[0].to_s
-  puts city.content
   city_list[city.attribute_nodes[0].to_s] = city.content
 end
-puts city_list
 
 candi_list  = []
-
 
 list_doc.css("table#table01").css("tr").each_with_index do |tr, idx|
 
