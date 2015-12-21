@@ -26,8 +26,8 @@ CANDI_LIST= '/electioninfo/electionInfo_report.xhtml'+
             '&topMenuId=PC&secondMenuId=PCRI03&menuId='+
             '&statementId=PCRI03_%232'+
             '&electionCode=2'+
-            '&townCode=-1&sggTownCode=0&x=19&y=14'
-            '&electionCode=2&cityCode=0&sggCityCode=0'+
+            '&townCode=-1&sggTownCode=0&x=19&y=14'+
+            '&electionCode=2&cityCode=0&sggCityCode=0'
 
 # 후보 통계 페이지
 CANDI_SUM = '/electioninfo/electionInfo_report.xhtml'+
@@ -87,6 +87,10 @@ list_doc.css("table#table01").css("tr").each_with_index do |tr, idx|
 end
 
 
+# 출력!
+puts JSON.pretty_generate(candi_list)
+
+
 # 통계페이지에서 전체 후보 숫자 가져와서 검증
 
 sum_html = Net::HTTP.get(NEC_SERVER, CANDI_SUM)
@@ -99,10 +103,10 @@ Nokogiri::HTML(sum_html).css("table#table01").css("tr").each_with_index do |tr, 
 
       # 오류 발생!!
       exit
+    else
+      STDERR.puts "candidates : #{sum_array[3].content}, crawled: #{candi_list.size}"
     end
   end
 end
 
 
-# 출력!
-puts JSON.pretty_generate(candi_list)
