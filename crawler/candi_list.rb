@@ -39,6 +39,7 @@ CANDI_SUM = '/electioninfo/electionInfo_report.xhtml'+
 
 
 
+STDERR.puts "retreiving : http://#{NEC_SERVER}#{CANDI_LIST}"
 list_html   = Net::HTTP.get(NEC_SERVER, CANDI_LIST)
 list_doc    = Nokogiri::HTML(list_html)
 
@@ -70,6 +71,7 @@ list_doc.css("table#table01").css("tr").each_with_index do |tr, idx|
 
 
     h[:district]        = candi_array.at(0).content
+    h[:district_long]   = "#{h[:city]}/#{h[:district]}"
     h[:party]           = candi_array.at(1).content
     h[:picture]         = PIC_PREFIX+candi_array.at(2).children[1].attribute_nodes[1]
     h[:name]            = candi_array.at(3).content.strip 
