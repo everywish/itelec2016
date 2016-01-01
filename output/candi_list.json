@@ -48,6 +48,38 @@
     "criminal_record": "1건"
   },
   {
+    "id": "100119143",
+    "city": "서울특별시",
+    "district": "종로구",
+    "district_long": "서울특별시/종로구",
+    "party": "새누리당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd1100/Gsg1101/Sgg2110101/Hb100119143/gicho/100119143.jpg",
+    "name": "김막걸리(金幕傑理)",
+    "gender": "남",
+    "age": "1955/09/16(60세)",
+    "address": "충청북도 옥천군 동이면 우산로1길",
+    "occupation": "정당인",
+    "education": "고등학교 졸업학력 검정고시 합격",
+    "career": "(전) 일어강사(현) 새누리당 중앙위 사회복지분과 부위원장",
+    "criminal_record": "3건"
+  },
+  {
+    "id": "100119121",
+    "city": "서울특별시",
+    "district": "종로구",
+    "district_long": "서울특별시/종로구",
+    "party": "새누리당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd1100/Gsg1101/Sgg2110101/Hb100119121/gicho/100119121.jpg",
+    "name": "장창태(張昌台)",
+    "gender": "남",
+    "age": "1967/07/15(48세)",
+    "address": "인천광역시 옹진군 영흥면 영흥남로",
+    "occupation": "정당인",
+    "education": "한양대학교 경영학과 졸업",
+    "career": "(전) 19대 종로구 국회의원(예비) 출마(현) 21C 종로발전포럼 대표",
+    "criminal_record": "3건"
+  },
+  {
     "id": "100118466",
     "city": "서울특별시",
     "district": "중구",
@@ -140,7 +172,7 @@
     "address": "서울특별시 용산구 백범로74길",
     "occupation": "정당인",
     "education": "한국방송통신대학 경영학과 2년 제적(1976.3.2.~1981.8.15.)",
-    "career": "(전)제6회 전국동시지방선거 용산구청장 예비후보(현)새정치민주연합 정책위원회 부의장",
+    "career": "(전)제6회 전국동시지방선거 용산구청장 예비후보(현)더불어민주당 정책위원회 부의장",
     "criminal_record": "없음"
   },
   {
@@ -332,7 +364,23 @@
     "address": "서울특별시 광진구 광나루로",
     "occupation": "정당인",
     "education": "성균관대학교 임상약학대학원 보건·사회약학과 약학석사(사회약학)",
-    "career": "(전) 제18대 국회의원(현) 새정치민주연합 사회복지특별위원장",
+    "career": "(전) 제18대 국회의원(현) 더불어민주당 사회복지특별위원장",
+    "criminal_record": "없음"
+  },
+  {
+    "id": "100119134",
+    "city": "서울특별시",
+    "district": "광진구갑",
+    "district_long": "서울특별시/광진구갑",
+    "party": "고용복지연금선진화연대",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd1100/Gsg1105/Sgg2110501/Hb100119134/gicho/100119134.jpg",
+    "name": "이정희(李廷姬)",
+    "gender": "여",
+    "age": "1960/12/22(55세)",
+    "address": "서울특별시 광진구 아차산로",
+    "occupation": "교습소 원장",
+    "education": "한국방송통신대학교 영어영문학과 졸업",
+    "career": "(전) 광장동 주민자치위원(현) 뮤엠영어구의교습소 원장",
     "criminal_record": "없음"
   },
   {
@@ -528,6 +576,22 @@
     "criminal_record": "1건"
   },
   {
+    "id": "100119065",
+    "city": "서울특별시",
+    "district": "중랑구갑",
+    "district_long": "서울특별시/중랑구갑",
+    "party": "새누리당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd1100/Gsg1107/Sgg2110701/Hb100119065/gicho/100119065.jpg",
+    "name": "최재익(崔在翼)",
+    "gender": "남",
+    "age": "1955/09/08(60세)",
+    "address": "서울특별시 중랑구 중랑천로10길",
+    "occupation": "독도 지킴이",
+    "education": "고려대학교 정책대학원 도시및지방행정학과 졸업(행정학석사)",
+    "career": "(전)서울특별시의회 대변인(현)독도수호전국연대 대표의장",
+    "criminal_record": "1건"
+  },
+  {
     "id": "100118745",
     "city": "서울특별시",
     "district": "중랑구갑",
@@ -556,7 +620,7 @@
     "address": "서울특별시 중랑구 양원역로6가길",
     "occupation": "단우빌딩 대표",
     "education": "성균관대학교 중어중문학과 졸업",
-    "career": "(전)국회의원",
+    "career": "(전)국회의원(전)박근혜후보 중앙선대위 도시안전특별본부장",
     "criminal_record": "2건"
   },
   {
@@ -604,7 +668,7 @@
     "address": "서울특별시 중랑구 동일로172길",
     "occupation": "전국화련 총비상대책위원장",
     "education": "광운대학교 인문사회과학대학 법학과 졸업",
-    "career": "(현)청자모(청와대 자유게시판 모임)회장무대산악회(전국총본부)사무총장",
+    "career": "(현)청자모(청와대 자유게시판 모임)회장(현)무대산악회(전국총본부)사무총장",
     "criminal_record": "8건"
   },
   {
@@ -716,7 +780,7 @@
     "address": "서울특별시 종로구 자하문로",
     "occupation": "건국대학교 행정대학원 초빙교수",
     "education": "고려대학교 정경대학 정치외교학과 졸업",
-    "career": "(전)박근혜 대통령후보 대외협력특보(전)한나라당(현 새누리당) 공천심사위원",
+    "career": "(전)박근혜 대통령후보 대외협력특보(전)한나라당(현 새누리당)성북을 위원장",
     "criminal_record": "없음"
   },
   {
@@ -732,7 +796,7 @@
     "address": "서울특별시 성북구 화랑로",
     "occupation": "정당인",
     "education": "성균관대학교 법과대학 법학과 졸업",
-    "career": "(전)서울시 성북구의회 의원",
+    "career": "(전)서울시 성북구의회의원(현)사단법인 한국다문화센터 운영위원",
     "criminal_record": "없음"
   },
   {
@@ -766,6 +830,22 @@
     "education": "경남대학교 대학원 법학과 석사 졸업",
     "career": "(전)시민모임 즐거운교육상상 대표(전)제18대 국회의원 선거 성북구을 후보",
     "criminal_record": "3건"
+  },
+  {
+    "id": "100119090",
+    "city": "서울특별시",
+    "district": "강북구갑",
+    "district_long": "서울특별시/강북구갑",
+    "party": "새누리당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd1100/Gsg1109/Sgg2110901/Hb100119090/gicho/100119090.jpg",
+    "name": "정양석(鄭亮碩)",
+    "gender": "남",
+    "age": "1958/11/25(57세)",
+    "address": "서울특별시 강북구 오현로31길",
+    "occupation": "정당인",
+    "education": "서강대학교 공공정책대학원 국제관계통상외교학과 졸업(정치학 석사)",
+    "career": "(전)18대 국회의원(현)새누리당 강북갑 당협위원장",
+    "criminal_record": "없음"
   },
   {
     "id": "100118568",
@@ -828,7 +908,7 @@
     "address": "서울특별시 강북구 솔샘로",
     "occupation": "정당인",
     "education": "성균관대학교 국정관리대학원 행정학과 졸업(행정학 석사)",
-    "career": "(전)민주당 대변인(현)새정치민주연합 정책위 상근부의장",
+    "career": "(전)민주당 대변인(현)더불어민주당 정책위 상근부의장",
     "criminal_record": "4건"
   },
   {
@@ -941,6 +1021,22 @@
     "occupation": "정당인",
     "education": "서울과학기술대학교 NID융합기술대학원 박사졸업(디자인학 박사)",
     "career": "(전)6-7대 서울특별시의원(전)호원대학교 겸임교수",
+    "criminal_record": "없음"
+  },
+  {
+    "id": "100119102",
+    "city": "서울특별시",
+    "district": "노원구을",
+    "district_long": "서울특별시/노원구을",
+    "party": "새누리당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd1100/Gsg1111/Sgg2111102/Hb100119102/gicho/100119102.jpg",
+    "name": "정기완(鄭基完)",
+    "gender": "남",
+    "age": "1954/03/20(62세)",
+    "address": "서울특별시 노원구 동일로203가길",
+    "occupation": "정당인",
+    "education": "한양대학교 행정자치대학원졸업(사회복지학석사)",
+    "career": "(전)노원구부구청장(현)행복나눔시민연대 대표",
     "criminal_record": "없음"
   },
   {
@@ -1316,7 +1412,7 @@
     "city": "서울특별시",
     "district": "마포구갑",
     "district_long": "서울특별시/마포구갑",
-    "party": "더불어민주당",
+    "party": "무소속",
     "picture": "http://info.nec.go.kr/photo_20160413/Sd1100/Gsg1114/Sgg2111401/Hb100118736/gicho/100118736.jpg",
     "name": "홍성문(洪聖文)",
     "gender": "남",
@@ -1808,6 +1904,22 @@
     "criminal_record": "1건"
   },
   {
+    "id": "100119066",
+    "city": "서울특별시",
+    "district": "금천구",
+    "district_long": "서울특별시/금천구",
+    "party": "새누리당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd1100/Gsg1118/Sgg2111801/Hb100119066/gicho/100119066.jpg",
+    "name": "이창용(李昌龍)",
+    "gender": "남",
+    "age": "1963/10/14(52세)",
+    "address": "서울특별시 금천구 시흥대로",
+    "occupation": "기아자동차(주) 독산대리점 소장",
+    "education": "경기대학교 정치전문대학원 석사과정 재학중(제3학기)",
+    "career": "(현)새누리당 중앙위 서울시 연합회 부회장(현)기아자동차(주) 독산대리점 소장",
+    "criminal_record": "1건"
+  },
+  {
     "id": "100118859",
     "city": "서울특별시",
     "district": "금천구",
@@ -1920,6 +2032,38 @@
     "criminal_record": "없음"
   },
   {
+    "id": "100119140",
+    "city": "서울특별시",
+    "district": "동작구갑",
+    "district_long": "서울특별시/동작구갑",
+    "party": "녹색당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd1100/Gsg1120/Sgg2112001/Hb100119140/gicho/100119140.jpg",
+    "name": "이유진(李侑珍)",
+    "gender": "여",
+    "age": "1975/07/09(40세)",
+    "address": "서울특별시 동작구 성대로8길",
+    "occupation": "연구원",
+    "education": "서울대학교 대학원 환경계획학과 박사과정 수료",
+    "career": "(전)녹색당 공동운영위원장(현)서울시 원전하나줄이기 실행위원회 총괄위원",
+    "criminal_record": "없음"
+  },
+  {
+    "id": "100119127",
+    "city": "서울특별시",
+    "district": "동작구갑",
+    "district_long": "서울특별시/동작구갑",
+    "party": "무소속",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd1100/Gsg1120/Sgg2112001/Hb100119127/gicho/100119127.jpg",
+    "name": "장환진(張煥珍)",
+    "gender": "남",
+    "age": "1964/07/08(51세)",
+    "address": "서울특별시 동작구 여의대방로44길",
+    "occupation": "객원교수",
+    "education": "연세대학교 정치외교학과 졸업",
+    "career": "(전)서울시의회 의원.상임위원장(도시계획관리위원장)(현)연세대학교 동서문제연구원 객원교수",
+    "criminal_record": "없음"
+  },
+  {
     "id": "100118788",
     "city": "서울특별시",
     "district": "동작구을",
@@ -2000,20 +2144,20 @@
     "criminal_record": "2건"
   },
   {
-    "id": "100118385",
+    "id": "100119142",
     "city": "서울특별시",
-    "district": "관악구을",
-    "district_long": "서울특별시/관악구을",
-    "party": "더불어민주당",
-    "picture": "http://info.nec.go.kr/photo_20160413/Sd1100/Gsg1121/Sgg2112102/Hb100118385/gicho/100118385.jpg",
-    "name": "김희철(金熙喆)",
+    "district": "관악구갑",
+    "district_long": "서울특별시/관악구갑",
+    "party": "정의당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd1100/Gsg1121/Sgg2112101/Hb100119142/gicho/100119142.jpg",
+    "name": "이동영(李同英)",
     "gender": "남",
-    "age": "1947/12/15(68세)",
-    "address": "서울특별시 관악구 난곡로",
+    "age": "1971/11/12(44세)",
+    "address": "서울특별시 관악구 국회단지13길",
     "occupation": "정당인",
-    "education": "건국대학교 일반대학원 행정학박사(행정학과 도시 및 지역개발 전공)",
-    "career": "(전)민선2,3기 관악구청장(전)제18대 국회의원 당선(민주통합당)",
-    "criminal_record": "없음"
+    "education": "경기대학교 경영학과 졸업",
+    "career": "(전)정의당 정책위부의장(현)정의당 관악지역위원장",
+    "criminal_record": "1건"
   },
   {
     "id": "100118916",
@@ -2061,6 +2205,22 @@
     "occupation": "개인사업",
     "education": "건국대학교 일반대학원 경제학박사(무역학과 무역실무전공)",
     "career": "(현)한국국민당 민주화,경제 재평가 국민회의 의장(현)서울포스트 칼럼니스트",
+    "criminal_record": "없음"
+  },
+  {
+    "id": "100118385",
+    "city": "서울특별시",
+    "district": "관악구을",
+    "district_long": "서울특별시/관악구을",
+    "party": "무소속",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd1100/Gsg1121/Sgg2112102/Hb100118385/gicho/100118385.jpg",
+    "name": "김희철(金熙喆)",
+    "gender": "남",
+    "age": "1947/12/15(68세)",
+    "address": "서울특별시 관악구 난곡로",
+    "occupation": "정당인",
+    "education": "건국대학교 일반대학원 행정학박사(행정학과 도시 및 지역개발 전공)",
+    "career": "(전)민선2,3기 관악구청장(전)제18대 국회의원 당선(민주통합당)",
     "criminal_record": "없음"
   },
   {
@@ -2176,6 +2336,22 @@
     "criminal_record": "없음"
   },
   {
+    "id": "100119072",
+    "city": "서울특별시",
+    "district": "서초구을",
+    "district_long": "서울특별시/서초구을",
+    "party": "새누리당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd1100/Gsg1122/Sgg2112202/Hb100119072/gicho/100119072.jpg",
+    "name": "이동관(李東官)",
+    "gender": "남",
+    "age": "1957/10/06(58세)",
+    "address": "서울특별시 서초구 서초중앙로",
+    "occupation": "디지털서울문화예술대학교 총장",
+    "education": "서울대학교 사회과학대학 정치학과 졸업",
+    "career": "(전)청와대 홍보수석비서관(전)동아일보 정치부장",
+    "criminal_record": "없음"
+  },
+  {
     "id": "100118761",
     "city": "서울특별시",
     "district": "서초구을",
@@ -2203,7 +2379,7 @@
     "age": "1952/03/27(64세)",
     "address": "서울특별시 강남구 봉은사로113길",
     "occupation": "대학교수",
-    "education": "클레어몬트 대학원 행정학 박사과정 졸업(1982.9.~1986.5)",
+    "education": "클레어몬트 대학원 행정학 박사과정 졸업(1983.9.~1986.5)",
     "career": "(전)제18대 국회의원(현)건국대학교 교수",
     "criminal_record": "없음"
   },
@@ -2317,6 +2493,22 @@
     "occupation": "정당인",
     "education": "서울대학교 행정대학원 행정학과 졸업(행정학석사)",
     "career": "(전)강남구청장 3선",
+    "criminal_record": "없음"
+  },
+  {
+    "id": "100119135",
+    "city": "서울특별시",
+    "district": "강남구을",
+    "district_long": "서울특별시/강남구을",
+    "party": "새누리당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd1100/Gsg1123/Sgg2112302/Hb100119135/gicho/100119135.jpg",
+    "name": "이귀영(李貴永)",
+    "gender": "남",
+    "age": "1964/03/27(52세)",
+    "address": "서울특별시 강남구 남부순환로373길",
+    "occupation": "(현)미연방(AIA)공인건축사(미뉴욕주 등록건축사)",
+    "education": "컬럼비아대학교 대학원 건축 및 도시설계 공학석사(1990.05.~1991.05.)",
+    "career": "(전)한나라당(새누리당)여의도 연구소 정책자문위원(전)친박연대 외교위원장",
     "criminal_record": "없음"
   },
   {
@@ -2446,6 +2638,22 @@
     "education": "건국대학교 일반대학원 행정학과 정책학전공(박사)",
     "career": "(전)서울시의회 의원(대변인)(전)송파구의회의장(전국 시·군·자치구의회 의장협의회 회장)",
     "criminal_record": "4건"
+  },
+  {
+    "id": "100119141",
+    "city": "서울특별시",
+    "district": "송파구을",
+    "district_long": "서울특별시/송파구을",
+    "party": "새누리당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd1100/Gsg1124/Sgg2112402/Hb100119141/gicho/100119141.jpg",
+    "name": "채현(蔡賢)",
+    "gender": "남",
+    "age": "1970/04/24(45세)",
+    "address": "서울특별시 송파구 가락로5길",
+    "occupation": "정당인",
+    "education": "고려대학교 법학과 졸업",
+    "career": "(전)제15기,16기 민주평화통일자문회의 자문위원(현)사)국제외교안보포럼 사무총장",
+    "criminal_record": "없음"
   },
   {
     "id": "100118890",
@@ -2592,6 +2800,22 @@
     "criminal_record": "1건"
   },
   {
+    "id": "100119070",
+    "city": "서울특별시",
+    "district": "강동구을",
+    "district_long": "서울특별시/강동구을",
+    "party": "새누리당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd1100/Gsg1125/Sgg2112502/Hb100119070/gicho/100119070.jpg",
+    "name": "정승우(鄭承右)",
+    "gender": "남",
+    "age": "1970/02/13(46세)",
+    "address": "서울특별시 강동구 양재대로",
+    "occupation": "회사원",
+    "education": "단국대학교 부동산·건설대학원 석사과정 재학중",
+    "career": "(현) 강동민심경청정책연구소 대표(현) 강동구 주민참여예산위원회 위원",
+    "criminal_record": "1건"
+  },
+  {
     "id": "100118673",
     "city": "서울특별시",
     "district": "강동구을",
@@ -2688,6 +2912,22 @@
     "criminal_record": "없음"
   },
   {
+    "id": "100119061",
+    "city": "부산광역시",
+    "district": "중구동구",
+    "district_long": "부산광역시/중구동구",
+    "party": "새누리당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd2600/Gsg2603/Sgg2260101/Hb100119061/gicho/100119061.jpg",
+    "name": "임정석(林正錫)",
+    "gender": "남",
+    "age": "1966/01/28(50세)",
+    "address": "부산광역시 동구 중앙대로195번가길",
+    "occupation": "기업인",
+    "education": "뉴욕대학교 경영대학원 석사과정 졸업(1995.9~1997.5)",
+    "career": "(전)새누리당 중앙당 부대변인(현)새마당(구 새마당예식장)대표",
+    "criminal_record": "없음"
+  },
+  {
     "id": "100118345",
     "city": "부산광역시",
     "district": "서구",
@@ -2732,7 +2972,7 @@
     "address": "부산광역시 서구 천마로",
     "occupation": "정당인",
     "education": "런던정경대학 정치학과 박사과정 수료(1993.10.1.~2005.9.30.)",
-    "career": "(현)부산광역시 서구 지역위원장(새정치민주연합)(현)청강연수원장",
+    "career": "(현)부산광역시 서구 지역위원장(더불어민주당)(현)청강연수원장",
     "criminal_record": "없음"
   },
   {
@@ -2800,6 +3040,22 @@
     "criminal_record": "없음"
   },
   {
+    "id": "100119081",
+    "city": "부산광역시",
+    "district": "부산진구갑",
+    "district_long": "부산광역시/부산진구갑",
+    "party": "새누리당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd2600/Gsg2605/Sgg2260501/Hb100119081/gicho/100119081.jpg",
+    "name": "허원제(許元齊)",
+    "gender": "남",
+    "age": "1951/09/27(64세)",
+    "address": "부산광역시 부산진구 초연로",
+    "occupation": "정당인",
+    "education": "서울대학교 사회과학대학 정치학과 졸업",
+    "career": "(전)제18대 부산진(갑) 국회의원(전)방송통신위원회 부위원장(차관급)",
+    "criminal_record": "없음"
+  },
+  {
     "id": "100118943",
     "city": "부산광역시",
     "district": "부산진구갑",
@@ -2864,6 +3120,22 @@
     "criminal_record": "없음"
   },
   {
+    "id": "100119133",
+    "city": "부산광역시",
+    "district": "부산진구을",
+    "district_long": "부산광역시/부산진구을",
+    "party": "새누리당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd2600/Gsg2605/Sgg2260502/Hb100119133/gicho/100119133.jpg",
+    "name": "이종혁(李鍾赫)",
+    "gender": "남",
+    "age": "1956/08/02(59세)",
+    "address": "부산광역시 부산진구 전포대로175번길",
+    "occupation": "정당인",
+    "education": "연세대학교 행정대학원 외교안보전공 석사 졸업",
+    "career": "(전)제18대 국회의원(전)새누리당 여의도연구원 상근부원장",
+    "criminal_record": "2건"
+  },
+  {
     "id": "100118318",
     "city": "부산광역시",
     "district": "부산진구을",
@@ -2876,8 +3148,24 @@
     "address": "부산광역시 부산진구 가야공원로",
     "occupation": "주) 위아에셋 대표이사",
     "education": "인제대학교 대학원 보건학과 졸업(환경보건학전공 보건학박사)",
-    "career": "(전)인제대학교 보건대학원 외래 조교수(현)새정치민주연합 정책위 부의장",
+    "career": "(전)인제대학교 보건대학원 외래 조교수(현)더불어민주당 정책위 부의장",
     "criminal_record": "4건"
+  },
+  {
+    "id": "100119091",
+    "city": "부산광역시",
+    "district": "부산진구을",
+    "district_long": "부산광역시/부산진구을",
+    "party": "더불어민주당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd2600/Gsg2605/Sgg2260502/Hb100119091/gicho/100119091.jpg",
+    "name": "박희정(朴熙正)",
+    "gender": "남",
+    "age": "1962/08/21(53세)",
+    "address": "부산광역시 부산진구 전포대로",
+    "occupation": "스마트철강 대표",
+    "education": "부산대학교 상과대학 회계학과 졸업",
+    "career": "(현)스마트철강 대표(현)부산의 미래를 준비하는 사람들 대표",
+    "criminal_record": "없음"
   },
   {
     "id": "100118646",
@@ -2910,6 +3198,22 @@
     "education": "부산대학교 대학원 졸업(국어국문학과 현대문학전공 문학박사)",
     "career": "(전) 경기도 대변인실 홍보담당(김문수 경기도지사 홍보 보좌관)(현) 나라사랑 명예사무총장",
     "criminal_record": "1건"
+  },
+  {
+    "id": "100119095",
+    "city": "부산광역시",
+    "district": "남구갑",
+    "district_long": "부산광역시/남구갑",
+    "party": "더불어민주당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd2600/Gsg2607/Sgg2260701/Hb100119095/gicho/100119095.jpg",
+    "name": "이정환(李正煥)",
+    "gender": "남",
+    "age": "1954/02/24(62세)",
+    "address": "부산광역시 남구 수영로",
+    "occupation": "정당인",
+    "education": "성균관대학교 경제학박사과정 수료",
+    "career": "(전) 한국거래소 이사장(전) 국무총리 정책상황실장",
+    "criminal_record": "없음"
   },
   {
     "id": "100118488",
@@ -3001,7 +3305,7 @@
     "name": "정진우(鄭鎭宇)",
     "gender": "남",
     "age": "1967/09/07(48세)",
-    "address": "부산광역시 북구 금곡대로616번길",
+    "address": "부산광역시 북구 효열로",
     "occupation": "한비닷컴 대표",
     "education": "연세대학교 경제대학원 졸업(경제학석사)",
     "career": "(전)노무현 대통령 북구강서구을 선대위원장(2002)(전)감정원(주) 이사",
@@ -3072,6 +3376,22 @@
     "criminal_record": "1건"
   },
   {
+    "id": "100119119",
+    "city": "부산광역시",
+    "district": "해운대구기장군갑",
+    "district_long": "부산광역시/해운대구기장군갑",
+    "party": "새누리당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd2600/Gsg2609/Sgg2260901/Hb100119119/gicho/100119119.jpg",
+    "name": "하태경(河泰慶)",
+    "gender": "남",
+    "age": "1968/06/19(47세)",
+    "address": "부산광역시 기장군 정관읍 정관5로",
+    "occupation": "정치인",
+    "education": "서울대학교 물리학과 졸업",
+    "career": "(현)제19대 국회의원(새누리당, 해운대구기장군을)(전)새누리당 부산시당 대변인",
+    "criminal_record": "2건"
+  },
+  {
     "id": "100118802",
     "city": "부산광역시",
     "district": "해운대구기장군갑",
@@ -3086,6 +3406,22 @@
     "education": "북경과학기술대학 교육관리학 박사과정 수료(2007. 9. ~ 2010. 6.)",
     "career": "(현)(주)해운대코렘어학원 대표(현)새정치민주연합 해운대기장갑 지역위원장",
     "criminal_record": "없음"
+  },
+  {
+    "id": "100119123",
+    "city": "부산광역시",
+    "district": "해운대구기장군갑",
+    "district_long": "부산광역시/해운대구기장군갑",
+    "party": "더불어민주당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd2600/Gsg2609/Sgg2260901/Hb100119123/gicho/100119123.jpg",
+    "name": "정남수(鄭南洙)",
+    "gender": "남",
+    "age": "1963/09/07(52세)",
+    "address": "부산광역시 해운대구 좌동순환로",
+    "occupation": "대학교수",
+    "education": "부경대학교 대학원 졸업(공학박사)",
+    "career": "(현)동원과학기술대학교 교수(전)부산환경운동연합 해운대기장지역 회원모임 회장",
+    "criminal_record": "1건"
   },
   {
     "id": "100118493",
@@ -3328,6 +3664,22 @@
     "criminal_record": "없음"
   },
   {
+    "id": "100119111",
+    "city": "부산광역시",
+    "district": "사하구을",
+    "district_long": "부산광역시/사하구을",
+    "party": "새누리당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd2600/Gsg2611/Sgg2261102/Hb100119111/gicho/100119111.jpg",
+    "name": "이기태(李棋泰)",
+    "gender": "남",
+    "age": "1938/02/14(78세)",
+    "address": "부산광역시 사하구 하신번영로173번길",
+    "occupation": "건축사",
+    "education": "한양대학교 건축공학과 졸업",
+    "career": "(전)한양대학교 부산경남 총동창회 고문(현)새누리당 사하을 당원협의회 고문",
+    "criminal_record": "없음"
+  },
+  {
     "id": "100118311",
     "city": "부산광역시",
     "district": "사하구을",
@@ -3342,6 +3694,22 @@
     "education": "동아대학교 대학원 정치학과 박사과정 재학중",
     "career": "(전)제18대 총선 사하을 친박연대 출마(현)사하행복포럼 대표",
     "criminal_record": "2건"
+  },
+  {
+    "id": "100119083",
+    "city": "부산광역시",
+    "district": "사하구을",
+    "district_long": "부산광역시/사하구을",
+    "party": "무소속",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd2600/Gsg2611/Sgg2261102/Hb100119083/gicho/100119083.jpg",
+    "name": "안중영(安重榮)",
+    "gender": "남",
+    "age": "1959/09/08(56세)",
+    "address": "부산광역시 사하구 윤공단로",
+    "occupation": "무",
+    "education": "목포상업고등학교 졸업",
+    "career": "(전)승학신용협동조합 전무(전)(사)한국구조연맹 서부산지역대장",
+    "criminal_record": "없음"
   },
   {
     "id": "100118840",
@@ -3420,7 +3788,7 @@
     "address": "부산광역시 수영구 광일로20번길",
     "occupation": "정당인",
     "education": "부산대학교 기계공학과 졸업",
-    "career": "(전) 2010년 수영구청장 후보(현) 새정치민주연합 부산시당 부위원장",
+    "career": "(전) 2010년 수영구청장 후보(현) 더불어민주당 부산시당 부위원장",
     "criminal_record": "1건"
   },
   {
@@ -3484,7 +3852,7 @@
     "address": "부산광역시 사상구 모라로110번길",
     "occupation": "국회의원",
     "education": "부산대학교 대학원 예술·문화와영상매체협동과정 수료(석사)",
-    "career": "(전)부산일보 기자 및 데스크(현)국회의원(새정치민주연합 비례대표)",
+    "career": "(전)부산일보 기자 및 데스크(현)국회의원(더불어민주당 비례대표)",
     "criminal_record": "없음"
   },
   {
@@ -3614,6 +3982,22 @@
     "education": "고려대학교 신문방송학과 졸업",
     "career": "(전)MBC 안동 9시 뉴스 앵커(기자)(전)SBS 보도본부 사회 부장(대구,인천 지국장)",
     "criminal_record": "4건"
+  },
+  {
+    "id": "100119052",
+    "city": "대구광역시",
+    "district": "중구남구",
+    "district_long": "대구광역시/중구남구",
+    "party": "새누리당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd2700/Gsg2704/Sgg2270101/Hb100119052/gicho/100119052.jpg",
+    "name": "남창모(南昌模)",
+    "gender": "남",
+    "age": "1963/10/05(52세)",
+    "address": "대구광역시 남구 앞산순환로",
+    "occupation": "교수",
+    "education": "영국 리즈대학교 공학박사(1995.10.1.~1999.9.17)",
+    "career": "(전)포항산업과학연구원 선임연구원(현)영남이공대학교 교수",
+    "criminal_record": "없음"
   },
   {
     "id": "100118527",
@@ -4016,6 +4400,22 @@
     "criminal_record": "1건"
   },
   {
+    "id": "100119064",
+    "city": "대구광역시",
+    "district": "달서구갑",
+    "district_long": "대구광역시/달서구갑",
+    "party": "새누리당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd2700/Gsg2707/Sgg2270701/Hb100119064/gicho/100119064.jpg",
+    "name": "이영근(李英根)",
+    "gender": "남",
+    "age": "1956/07/27(59세)",
+    "address": "대구광역시 달서구 당산로",
+    "occupation": "정당인",
+    "education": "계명대학병설전문학교 관광과졸업(현 계명문화대학교)",
+    "career": "(전)제18대 박근혜대통령 후보 선대위 중앙위본부 노동특보(현)새누리당 중앙위원회 노동분과 부위원장",
+    "criminal_record": "1건"
+  },
+  {
     "id": "100118489",
     "city": "대구광역시",
     "district": "달서구을",
@@ -4192,6 +4592,22 @@
     "criminal_record": "없음"
   },
   {
+    "id": "100119100",
+    "city": "인천광역시",
+    "district": "중구동구옹진군",
+    "district_long": "인천광역시/중구동구옹진군",
+    "party": "새누리당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd2800/Gsg2802/Sgg2280101/Hb100119100/gicho/100119100.jpg",
+    "name": "이은석(李殷碩)",
+    "gender": "남",
+    "age": "1972/10/23(43세)",
+    "address": "인천광역시 동구 제물량로",
+    "occupation": "정당인",
+    "education": "성균관대학교 대학원 교육학과 석사(수료)",
+    "career": "(전)인천광역시의회  의원(전)청와대 정무수석실 행정관",
+    "criminal_record": "없음"
+  },
+  {
     "id": "100118471",
     "city": "인천광역시",
     "district": "중구동구옹진군",
@@ -4352,6 +4768,22 @@
     "criminal_record": "없음"
   },
   {
+    "id": "100119082",
+    "city": "인천광역시",
+    "district": "연수구",
+    "district_long": "인천광역시/연수구",
+    "party": "새누리당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd2800/Gsg2804/Sgg2280401/Hb100119082/gicho/100119082.jpg",
+    "name": "민현주(閔炫珠)",
+    "gender": "여",
+    "age": "1969/07/23(46세)",
+    "address": "인천광역시 연수구 아트센터대로",
+    "occupation": "국회의원",
+    "education": "Cornell 대학교 대학원 사회학전공 졸업(철학 박사, 1999.8~2004.8)",
+    "career": "(전) 제18대 대선 새누리당 박근혜 대통령후보 여성특보(현) 제19대 국회의원",
+    "criminal_record": "없음"
+  },
+  {
     "id": "100118807",
     "city": "인천광역시",
     "district": "연수구",
@@ -4366,6 +4798,22 @@
     "education": "서울대학교 대학원 경영학과 졸업(경영학석사)",
     "career": "(현) 새정치민주연합 연수구 지역위원장(현) 인하대학교 경영학과 겸임교수",
     "criminal_record": "없음"
+  },
+  {
+    "id": "100119137",
+    "city": "인천광역시",
+    "district": "연수구",
+    "district_long": "인천광역시/연수구",
+    "party": "정의당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd2800/Gsg2804/Sgg2280401/Hb100119137/gicho/100119137.jpg",
+    "name": "김상하(金相河)",
+    "gender": "남",
+    "age": "1964/06/01(51세)",
+    "address": "인천광역시 연수구 아트센터대로97번길",
+    "occupation": "변호사",
+    "education": "서울대학교 법과대학 공법학과 졸업",
+    "career": "(전) 2010년 인천광역시장선거 후보(현) 법무법인 씨티즌 대표 변호사",
+    "criminal_record": "3건"
   },
   {
     "id": "100118450",
@@ -4446,6 +4894,22 @@
     "education": "연세대학교 행정대학원 정치행정리더십전공 석사 과정 졸업",
     "career": "(현)인천시당 부위원장(현)청운대학교 겸임교수",
     "criminal_record": "2건"
+  },
+  {
+    "id": "100119053",
+    "city": "인천광역시",
+    "district": "남동구갑",
+    "district_long": "인천광역시/남동구갑",
+    "party": "새누리당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd2800/Gsg2805/Sgg2280501/Hb100119053/gicho/100119053.jpg",
+    "name": "최진범(崔鎭範)",
+    "gender": "남",
+    "age": "1986/05/03(29세)",
+    "address": "인천광역시 남동구 장승남로",
+    "occupation": "기업인",
+    "education": "워싱턴대학교 정치학과 졸업(문학사, 2004.9.~2011.6.)",
+    "career": "(전)대통령직속 청년위원회 주무관(현)유한회사 19시30분 대표이사",
+    "criminal_record": "없음"
   },
   {
     "id": "100118692",
@@ -4572,7 +5036,7 @@
     "address": "인천광역시 부평구 부흥로123번길",
     "occupation": "정당인",
     "education": "서울대학교 대학원 정치학과 졸업(정치학석사)",
-    "career": "(전)국회의장 비서실장(차관급)(현)정당인",
+    "career": "(전)국회의장 비서실장(차관급)(현)새누리당 부평을당협위원장",
     "criminal_record": "없음"
   },
   {
@@ -4624,6 +5088,22 @@
     "criminal_record": "없음"
   },
   {
+    "id": "100119129",
+    "city": "인천광역시",
+    "district": "계양구갑",
+    "district_long": "인천광역시/계양구갑",
+    "party": "새누리당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd2800/Gsg2807/Sgg2280701/Hb100119129/gicho/100119129.JPG",
+    "name": "조갑진(趙甲鎭)",
+    "gender": "남",
+    "age": "1952/06/10(63세)",
+    "address": "인천광역시 계양구 도두리로",
+    "occupation": "대학교수",
+    "education": "건국대학교 대학원 졸업(경제학박사)",
+    "career": "(현)새누리당 인천계양구갑 당협위원장(현)연세대학교 겸임교수",
+    "criminal_record": "2건"
+  },
+  {
     "id": "100118305",
     "city": "인천광역시",
     "district": "계양구갑",
@@ -4638,6 +5118,22 @@
     "education": "연세대학교 경영학과 졸업",
     "career": "(전)인천도시공사 상임감사(현)공인회계사",
     "criminal_record": "없음"
+  },
+  {
+    "id": "100119110",
+    "city": "인천광역시",
+    "district": "계양구갑",
+    "district_long": "인천광역시/계양구갑",
+    "party": "정의당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd2800/Gsg2807/Sgg2280701/Hb100119110/gicho/100119110.JPG",
+    "name": "김성진(金聖珍)",
+    "gender": "남",
+    "age": "1960/02/22(56세)",
+    "address": "인천광역시 남구 인하로",
+    "occupation": "정당인",
+    "education": "인하대학교 토목공학과 3년 제적(명예졸업)",
+    "career": "(전)계양산 골프장저지 인천시민대책위 공동대표(현)정의당 인천광역시당 상임위원장",
+    "criminal_record": "4건"
   },
   {
     "id": "100118882",
@@ -4736,6 +5232,38 @@
     "criminal_record": "없음"
   },
   {
+    "id": "100119086",
+    "city": "인천광역시",
+    "district": "서구강화군을",
+    "district_long": "인천광역시/서구강화군을",
+    "party": "새누리당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd2800/Gsg2809/Sgg2280901/Hb100119086/gicho/100119086.jpg",
+    "name": "이행숙(李幸淑)",
+    "gender": "여",
+    "age": "1962/10/10(53세)",
+    "address": "인천광역시 서구 크리스탈로",
+    "occupation": "한국미래정책연구원 원장",
+    "education": "인하대학교 대학원 졸업(행정학박사)",
+    "career": "(전) 제4대 인천서구시설관리공단 이사장(전) 2014년 서구청장 예비후보",
+    "criminal_record": "없음"
+  },
+  {
+    "id": "100119117",
+    "city": "인천광역시",
+    "district": "서구강화군을",
+    "district_long": "인천광역시/서구강화군을",
+    "party": "새누리당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd2800/Gsg2809/Sgg2280901/Hb100119117/gicho/100119117.jpg",
+    "name": "이훈국(李薰國)",
+    "gender": "남",
+    "age": "1946/01/18(70세)",
+    "address": "인천광역시 서구 서곶로370번길",
+    "occupation": "정당인",
+    "education": "감리교 대전신학교 (현 목원대학교) 4학년수료",
+    "career": "(전)인천광역시 민선 5대 서구청장(전)제18대 대통령선거 새누리당 인천시당선대위 서구 공동선거대책본부장",
+    "criminal_record": "없음"
+  },
+  {
     "id": "100118330",
     "city": "인천광역시",
     "district": "서구강화군을",
@@ -4766,6 +5294,22 @@
     "education": "전남대학교 대학원 공업화학과 졸업(공학석사)",
     "career": "(전) 2014 인천 서구청장선거 후보(전) 제6대 인천광역시의회 의원",
     "criminal_record": "1건"
+  },
+  {
+    "id": "100119106",
+    "city": "광주광역시",
+    "district": "서구을",
+    "district_long": "광주광역시/서구을",
+    "party": "정의당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd2900/Gsg2902/Sgg2290202/Hb100119106/gicho/100119106.jpg",
+    "name": "강은미(姜恩美)",
+    "gender": "여",
+    "age": "1970/09/06(45세)",
+    "address": "광주광역시 서구 화개1로78번길",
+    "occupation": "정당인",
+    "education": "전남대학교 해양학과 졸업",
+    "career": "(현) 정의당 서구위원회 위원장(현) 광주 중앙공원시민네트워크 공동대표",
+    "criminal_record": "없음"
   },
   {
     "id": "100118442",
@@ -4956,7 +5500,7 @@
     "address": "대전광역시 동구 고니길",
     "occupation": "정당인",
     "education": "충남대학교 사회학과 졸업",
-    "career": "(전)새정치민주연합 중앙당 조직부총장(현)새정치민주연합 대전 동구지역위원장",
+    "career": "(전)새정치민주연합 중앙당 조직부총장(현)더불어민주당 대전 동구지역위원장",
     "criminal_record": "없음"
   },
   {
@@ -5184,6 +5728,22 @@
     "criminal_record": "없음"
   },
   {
+    "id": "100119128",
+    "city": "대전광역시",
+    "district": "서구을",
+    "district_long": "대전광역시/서구을",
+    "party": "무소속",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd3000/Gsg3003/Sgg2300302/Hb100119128/gicho/100119128.JPG",
+    "name": "이동규(李東奎)",
+    "gender": "남",
+    "age": "1965/11/13(50세)",
+    "address": "대전광역시 서구 둔산중로",
+    "occupation": "의사",
+    "education": "계명대학교 의학과 졸업",
+    "career": "(현)이동규의원 대표원장",
+    "criminal_record": "1건"
+  },
+  {
     "id": "100118651",
     "city": "대전광역시",
     "district": "유성구",
@@ -5229,6 +5789,22 @@
     "occupation": "목원대학교 교수",
     "education": "템플대학교 경영학 석·박사과정, 경영학박사(1987. 09 ~ 1993. 12)",
     "career": "(전)새마을운동 유성구지회장(현)목원대학교 교수",
+    "criminal_record": "없음"
+  },
+  {
+    "id": "100119055",
+    "city": "대전광역시",
+    "district": "유성구",
+    "district_long": "대전광역시/유성구",
+    "party": "새누리당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd3000/Gsg3004/Sgg2300401/Hb100119055/gicho/100119055.jpg",
+    "name": "김문영(金文泳)",
+    "gender": "남",
+    "age": "1967/01/23(49세)",
+    "address": "대전광역시 유성구 어은로",
+    "occupation": "정당인",
+    "education": "충남대학교 행정대학원 졸업(행정학 석사)",
+    "career": "(전)청와대 정무수석실 행정관(현)새누리당 중앙당 부대변인",
     "criminal_record": "없음"
   },
   {
@@ -5308,7 +5884,7 @@
     "address": "대전광역시 대덕구 중리서로",
     "occupation": "정당인",
     "education": "충남대학교 대학원 석사과정(동양철학) 수료",
-    "career": "(전) 청와대 행정관(홍보 및 시민사회수석실)(현) 새정치민주연합 대덕구지역위원장",
+    "career": "(전) 청와대 행정관(홍보 및 시민사회수석실)(현) 더불어민주당 대덕구지역위원장",
     "criminal_record": "2건"
   },
   {
@@ -5405,6 +5981,22 @@
     "occupation": "변호사",
     "education": "고려대학교 법학과 졸업",
     "career": "(현)법무법인 정우 대표 변호사(현)울산 남구 무상급식 추진위원회 공동대표",
+    "criminal_record": "없음"
+  },
+  {
+    "id": "100119063",
+    "city": "울산광역시",
+    "district": "남구을",
+    "district_long": "울산광역시/남구을",
+    "party": "더불어민주당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd3100/Gsg3102/Sgg2310202/Hb100119063/gicho/100119063.JPG",
+    "name": "임동욱(林東郁)",
+    "gender": "남",
+    "age": "1977/08/25(38세)",
+    "address": "울산광역시 남구 돋질로355번길",
+    "occupation": "정당인",
+    "education": "고려대학교 법무대학원 경찰법학과 수료",
+    "career": "(전)새정치민주연합 정책위원회 부의장(현)더불어민주당 남구을지역위원장",
     "criminal_record": "없음"
   },
   {
@@ -5520,6 +6112,38 @@
     "criminal_record": "1건"
   },
   {
+    "id": "100119060",
+    "city": "울산광역시",
+    "district": "북구",
+    "district_long": "울산광역시/북구",
+    "party": "더불어민주당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd3100/Gsg3104/Sgg2310401/Hb100119060/gicho/100119060.jpg",
+    "name": "이상헌(李相憲)",
+    "gender": "남",
+    "age": "1954/07/10(61세)",
+    "address": "울산광역시 북구 동대1길",
+    "occupation": "동북아 관광개발 연구원 원장",
+    "education": "동국대학교대학원 호텔관광경영학박사",
+    "career": "(전)노무현대통령후보 울산광역시 선거대책본부장(현)더불어민주당 울산시당위원장",
+    "criminal_record": "2건"
+  },
+  {
+    "id": "100119108",
+    "city": "울산광역시",
+    "district": "북구",
+    "district_long": "울산광역시/북구",
+    "party": "무소속",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd3100/Gsg3104/Sgg2310401/Hb100119108/gicho/100119108.jpg",
+    "name": "윤종오(尹鍾五)",
+    "gender": "남",
+    "age": "1963/08/14(52세)",
+    "address": "울산광역시 북구 명촌로",
+    "occupation": "회사원",
+    "education": "부산대학교 행정학석사",
+    "career": "(전)울산광역시 북구청장(현)북구마을공동체 동행대표",
+    "criminal_record": "2건"
+  },
+  {
     "id": "100118632",
     "city": "울산광역시",
     "district": "울주군",
@@ -5582,6 +6206,22 @@
     "education": "한양대학교 의과대학 졸업",
     "career": "(현)울산대학교병원 대외협력홍보실장(현)한국백혈병소아암협회 울산지회장",
     "criminal_record": "1건"
+  },
+  {
+    "id": "100119097",
+    "city": "울산광역시",
+    "district": "울주군",
+    "district_long": "울산광역시/울주군",
+    "party": "새누리당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd3100/Gsg3105/Sgg2310501/Hb100119097/gicho/100119097.jpg",
+    "name": "손태호(孫台鎬)",
+    "gender": "남",
+    "age": "1960/03/09(56세)",
+    "address": "울산광역시 울주군 두서면 중점1길",
+    "occupation": "정당인",
+    "education": "부산대학교 대학원 철학박사",
+    "career": "(전)한국로봇산업진흥원 전문위원(전)새누리당 중앙위원회 해외동포분과 부위원장",
+    "criminal_record": "없음"
   },
   {
     "id": "100118600",
@@ -5712,6 +6352,38 @@
     "criminal_record": "2건"
   },
   {
+    "id": "100119104",
+    "city": "경기도",
+    "district": "수원시갑",
+    "district_long": "경기도/수원시갑",
+    "party": "무소속",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd4100/Gsg4101/Sgg2410101/Hb100119104/gicho/100119104.JPG",
+    "name": "김재귀(金材歸)",
+    "gender": "남",
+    "age": "1953/06/18(62세)",
+    "address": "경기도 수원시 장안구 창훈로66번길",
+    "occupation": "산강공인중개사 대표",
+    "education": "연세대학교 정경대학원 경제학 석사 졸업",
+    "career": "(전)경기도의회의원(현)한국전통예악 총연합회 이사",
+    "criminal_record": "없음"
+  },
+  {
+    "id": "100119099",
+    "city": "경기도",
+    "district": "수원시갑",
+    "district_long": "경기도/수원시갑",
+    "party": "무소속",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd4100/Gsg4101/Sgg2410101/Hb100119099/gicho/100119099.jpg",
+    "name": "이재준(李在浚)",
+    "gender": "남",
+    "age": "1965/03/15(51세)",
+    "address": "경기도 수원시 팔달구 효원로308번길",
+    "occupation": "무직",
+    "education": "서울대학교 대학원(공학박사)",
+    "career": "(전)수원시 제2부시장(전)협성대학교 도시공학과 교수",
+    "criminal_record": "없음"
+  },
+  {
     "id": "100118721",
     "city": "경기도",
     "district": "수원시을",
@@ -5760,6 +6432,22 @@
     "criminal_record": "1건"
   },
   {
+    "id": "100119122",
+    "city": "경기도",
+    "district": "수원시병",
+    "district_long": "경기도/수원시병",
+    "party": "무소속",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd4100/Gsg4103/Sgg2410301/Hb100119122/gicho/100119122.jpg",
+    "name": "김창호(金昌昊)",
+    "gender": "남",
+    "age": "1964/11/01(51세)",
+    "address": "경기도 수원시 팔달구 중부대로223번길",
+    "occupation": "종교인",
+    "education": "성동기계공업고등학교(현 성동공업고등학교) 졸업",
+    "career": "(전)듀랜드 출판사 대표",
+    "criminal_record": "없음"
+  },
+  {
     "id": "100118542",
     "city": "경기도",
     "district": "수원시정",
@@ -5788,7 +6476,7 @@
     "address": "경기도 수원시 영통구 삼성로320번길",
     "occupation": "정당인",
     "education": "부산디지털대학교 사회복지학부 사회복지학과 졸업",
-    "career": "(전)수원시의회 8대 시의원(현)대통령직속통일준비위원회(국민연합)수원시회장",
+    "career": "(전)수원시의회 8대 시의원(현)대통령직속통일준비위원회 시민자문단체 남북통일운동국민연합 수원시회장",
     "criminal_record": "없음"
   },
   {
@@ -5968,6 +6656,22 @@
     "criminal_record": "없음"
   },
   {
+    "id": "100119057",
+    "city": "경기도",
+    "district": "의정부시갑",
+    "district_long": "경기도/의정부시갑",
+    "party": "새누리당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd4100/Gsg4108/Sgg2410801/Hb100119057/gicho/100119057.jpg",
+    "name": "박봉수(朴鳳洙)",
+    "gender": "남",
+    "age": "1958/06/11(57세)",
+    "address": "경기도 의정부시 신곡로",
+    "occupation": "대학 교수",
+    "education": "성균관대학교 대학원 졸업(정치학박사)",
+    "career": "(전) 제4대 경기도의원(전) 한나라당 의정부시 지구당 위원장",
+    "criminal_record": "없음"
+  },
+  {
     "id": "100118880",
     "city": "경기도",
     "district": "의정부시을",
@@ -6078,6 +6782,38 @@
     "education": "고려대학교 경영대학원 졸업(경영학 석사)",
     "career": "(현)한국해양소년단 경기남부연맹장(현)국제나은병원 대외협력이사",
     "criminal_record": "2건"
+  },
+  {
+    "id": "100119080",
+    "city": "경기도",
+    "district": "안양시만안구",
+    "district_long": "경기도/안양시만안구",
+    "party": "새누리당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd4100/Gsg4109/Sgg2410901/Hb100119080/gicho/100119080.jpg",
+    "name": "노충호(盧忠鎬)",
+    "gender": "남",
+    "age": "1959/02/28(57세)",
+    "address": "경기도 안양시 만안구 병목안로",
+    "occupation": "기업인",
+    "education": "인하대학교 대학원 행정학과 졸업 (행정학 박사)",
+    "career": "(전)새누리당 부대변인(현)(재)도암윤국노장학회 이사장",
+    "criminal_record": "1건"
+  },
+  {
+    "id": "100119107",
+    "city": "경기도",
+    "district": "안양시만안구",
+    "district_long": "경기도/안양시만안구",
+    "party": "새누리당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd4100/Gsg4109/Sgg2410901/Hb100119107/gicho/100119107.jpg",
+    "name": "정경모(鄭京模)",
+    "gender": "남",
+    "age": "1959/03/26(57세)",
+    "address": "경기도 안양시 만안구 냉천로",
+    "occupation": "변호사",
+    "education": "고려대학교 대학원 법학과 박사과정 수료",
+    "career": "(전)박근혜 대통령후보 법률지원단 부단장(전)법무법인 율려 대표변호사",
+    "criminal_record": "없음"
   },
   {
     "id": "100118452",
@@ -6348,7 +7084,7 @@
     "address": "경기도 부천시 원미구 장말로",
     "occupation": "변호사",
     "education": "서울대학교 정치학과 졸업",
-    "career": "(전)부천시 고문변호사(현)새정치민주연합 대외협력위원회 부위원장",
+    "career": "(전)부천시 고문변호사(현)더불어민주당 대외협력위원회 부위원장",
     "criminal_record": "없음"
   },
   {
@@ -6398,6 +7134,38 @@
     "education": "서울대학교 대학원 정치학과 졸업(정치학석사)",
     "career": "(전)제17대,18대 국회의원(현)새누리당 부천시소사구 당원협의회 운영위원장",
     "criminal_record": "1건"
+  },
+  {
+    "id": "100119139",
+    "city": "경기도",
+    "district": "부천시소사구",
+    "district_long": "경기도/부천시소사구",
+    "party": "새누리당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd4100/Gsg4112/Sgg2411201/Hb100119139/gicho/100119139.jpg",
+    "name": "이재진(李在鎭)",
+    "gender": "남",
+    "age": "1967/04/08(49세)",
+    "address": "경기도 부천시 소사구 성주로",
+    "occupation": "정당인",
+    "education": "고려대학교 정책대학원 도시 및 지방행정학과 석사과정 수료",
+    "career": "(전)2014 지방선거 부천시장 후보(전)대통령직속 사회통합위원회 대외협력팀장",
+    "criminal_record": "없음"
+  },
+  {
+    "id": "100119103",
+    "city": "경기도",
+    "district": "부천시소사구",
+    "district_long": "경기도/부천시소사구",
+    "party": "정의당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd4100/Gsg4112/Sgg2411201/Hb100119103/gicho/100119103.jpg",
+    "name": "신현자(申鉉子)",
+    "gender": "여",
+    "age": "1971/06/19(44세)",
+    "address": "경기도 부천시 소사구 중동로71번길",
+    "occupation": "정당인",
+    "education": "경희대학교 영어영문학과 졸업",
+    "career": "(전)부천교육희망네트워크 공동대표(현)정의당 부천시소사구지역위원회 위원장",
+    "criminal_record": "없음"
   },
   {
     "id": "100118901",
@@ -6480,6 +7248,54 @@
     "criminal_record": "없음"
   },
   {
+    "id": "100119078",
+    "city": "경기도",
+    "district": "광명시갑",
+    "district_long": "경기도/광명시갑",
+    "party": "새누리당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd4100/Gsg4114/Sgg2411401/Hb100119078/gicho/100119078.jpg",
+    "name": "이홍균(李弘均)",
+    "gender": "남",
+    "age": "1962/09/15(53세)",
+    "address": "경기도 광명시 사성로",
+    "occupation": "정당인",
+    "education": "서울대학교 인류학과 졸업",
+    "career": "(전)제18대 대통령선거 새누리당박근혜후보중앙선대위원회 직능총괄본부 팀장(전)농림축산식품부 장관정책보좌관",
+    "criminal_record": "2건"
+  },
+  {
+    "id": "100119126",
+    "city": "경기도",
+    "district": "광명시갑",
+    "district_long": "경기도/광명시갑",
+    "party": "새누리당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd4100/Gsg4114/Sgg2411401/Hb100119126/gicho/100119126.jpg",
+    "name": "정은숙(鄭銀淑)",
+    "gender": "여",
+    "age": "1958/07/10(57세)",
+    "address": "경기도 광명시 광명로",
+    "occupation": "정당인",
+    "education": "고려대학교 정책대학원 경제정책학과 경제학석사",
+    "career": "(전)제16,17대 국회의원 비례후보(현)새누리당 경기도당 수석대변인",
+    "criminal_record": "없음"
+  },
+  {
+    "id": "100119132",
+    "city": "경기도",
+    "district": "광명시갑",
+    "district_long": "경기도/광명시갑",
+    "party": "정의당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd4100/Gsg4114/Sgg2411401/Hb100119132/gicho/100119132.jpg",
+    "name": "문현수(文賢洙)",
+    "gender": "남",
+    "age": "1968/08/28(47세)",
+    "address": "경기도 광명시 새터안로",
+    "occupation": "정당인",
+    "education": "중앙대학교 경영학과 중퇴(1년)",
+    "career": "(전)광명시의회 부의장(현)정의당 광명갑 지역위원장",
+    "criminal_record": "없음"
+  },
+  {
     "id": "100118806",
     "city": "경기도",
     "district": "광명시갑",
@@ -6510,6 +7326,22 @@
     "education": "한국과학기술원 경영공학전공(박사)",
     "career": "(전)선린대학교 총장(전)한국과학기술원 부총장",
     "criminal_record": "없음"
+  },
+  {
+    "id": "100119136",
+    "city": "경기도",
+    "district": "광명시을",
+    "district_long": "경기도/광명시을",
+    "party": "새누리당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd4100/Gsg4114/Sgg2411402/Hb100119136/gicho/100119136.jpg",
+    "name": "이효선(李孝善)",
+    "gender": "남",
+    "age": "1955/03/17(61세)",
+    "address": "경기도 광명시 밤일안로",
+    "occupation": "정당인",
+    "education": "고려대학교 정책대학원 도시및지방행정학과 행정학 석사",
+    "career": "(전)민선4기 광명시장(전)박근혜 대통령후보 수도권대책위 광명본부장",
+    "criminal_record": "2건"
   },
   {
     "id": "100118811",
@@ -6556,7 +7388,7 @@
     "address": "경기도 평택시 송탄로",
     "occupation": "정당인",
     "education": "평택대학교 일반대학원 박사과정 수료(전공:사회복지학)",
-    "career": "(전)평택시어린이집연합회 5대,6대 회장(현)새정치민주연합 평택갑지역위원회 위원장",
+    "career": "(전)평택시어린이집연합회 5대,6대 회장(현)더불어민주당 평택갑지역위원회 위원장",
     "criminal_record": "2건"
   },
   {
@@ -6571,7 +7403,7 @@
     "age": "1974/03/28(42세)",
     "address": "경기도 평택시 경기대로",
     "occupation": "유에스앤코리아 문화교류회 대표",
-    "education": "숭실대학교 영어영문학과 졸업",
+    "education": "(북경)대외경제무역대학 국제경영대학원 졸업(경영학과정) 2002.09.01~2005.06.29",
     "career": "(전)새정치민주연합 평택갑 사무국장(전)평택APK가스공장반대 주민대책위원장",
     "criminal_record": "없음"
   },
@@ -6864,6 +7696,22 @@
     "criminal_record": "없음"
   },
   {
+    "id": "100119075",
+    "city": "경기도",
+    "district": "고양시덕양구갑",
+    "district_long": "경기도/고양시덕양구갑",
+    "party": "새누리당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd4100/Gsg4120/Sgg2412001/Hb100119075/gicho/100119075.jpg",
+    "name": "이영희(李榮熙)",
+    "gender": "남",
+    "age": "1954/02/20(62세)",
+    "address": "경기도 고양시 일산동구 중산로",
+    "occupation": "정치인",
+    "education": "동국대학교대학원 정치학박사",
+    "career": "(전)동국대 겸임교수(전)미시간대 초빙연구원",
+    "criminal_record": "2건"
+  },
+  {
     "id": "100118678",
     "city": "경기도",
     "district": "고양시덕양구갑",
@@ -7104,6 +7952,22 @@
     "criminal_record": "없음"
   },
   {
+    "id": "100119109",
+    "city": "경기도",
+    "district": "의왕시과천시",
+    "district_long": "경기도/의왕시과천시",
+    "party": "녹색당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd4100/Gsg4123/Sgg2412301/Hb100119109/gicho/100119109.jpg",
+    "name": "홍지숙(洪志淑)",
+    "gender": "여",
+    "age": "1982/05/06(33세)",
+    "address": "경기도 과천시 향촌2길",
+    "occupation": "디자이너",
+    "education": "홍익대학교 미술대학 시각디자인과(복수전공 : 회화과) 졸업",
+    "career": "(전)출판사 문학동네 디자이너(현)경기녹색당 운영위원장",
+    "criminal_record": "없음"
+  },
+  {
     "id": "100118933",
     "city": "경기도",
     "district": "구리시",
@@ -7182,6 +8046,22 @@
     "education": "서울대학교 대학원 법학과 졸업(법학석사)",
     "career": "(현)새누리당 남양주(갑) 당협위원장(현)경기도 고문변호사",
     "criminal_record": "없음"
+  },
+  {
+    "id": "100119087",
+    "city": "경기도",
+    "district": "남양주시갑",
+    "district_long": "경기도/남양주시갑",
+    "party": "새누리당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd4100/Gsg4126/Sgg2412601/Hb100119087/gicho/100119087.jpg",
+    "name": "안형준(安亨濬)",
+    "gender": "남",
+    "age": "1957/05/18(58세)",
+    "address": "경기도 남양주시 와부읍 덕소로97번길",
+    "occupation": "교수",
+    "education": "한양대학교 대학원 건축공학과 졸업 (공학박사)",
+    "career": "(현)건국대학교 건축대학 학장(현)안전한 나라 대표",
+    "criminal_record": "1건"
   },
   {
     "id": "100118648",
@@ -7456,6 +8336,22 @@
     "criminal_record": "없음"
   },
   {
+    "id": "100119079",
+    "city": "경기도",
+    "district": "화성시을",
+    "district_long": "경기도/화성시을",
+    "party": "새누리당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd4100/Gsg4128/Sgg2412802/Hb100119079/gicho/100119079.jpg",
+    "name": "현명철(玄明哲)",
+    "gender": "남",
+    "age": "1956/03/23(60세)",
+    "address": "경기도 화성시 동탄숲속로",
+    "occupation": "사단법인 화성미래연구원 원장",
+    "education": "러시아 과학 아카데미 동방학연구소 경제학박사(1996.9 - 1998.10)",
+    "career": "(전)장안대학교 외래교수(현)새누리당 경기도당 부위원장",
+    "criminal_record": "없음"
+  },
+  {
     "id": "100118827",
     "city": "경기도",
     "district": "화성시을",
@@ -7536,6 +8432,22 @@
     "criminal_record": "1건"
   },
   {
+    "id": "100119105",
+    "city": "경기도",
+    "district": "하남시",
+    "district_long": "경기도/하남시",
+    "party": "새누리당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd4100/Gsg4131/Sgg2413101/Hb100119105/gicho/100119105.jpg",
+    "name": "윤완채(尹完采)",
+    "gender": "남",
+    "age": "1962/01/16(54세)",
+    "address": "경기도 하남시 신평로",
+    "occupation": "정당인",
+    "education": "경희대학교 행정대학원 행정학석사",
+    "career": "(현)새누리당 경기도당 대변인",
+    "criminal_record": "없음"
+  },
+  {
     "id": "100118554",
     "city": "경기도",
     "district": "하남시",
@@ -7612,7 +8524,7 @@
     "address": "경기도 파주시 가온로",
     "occupation": "정당인",
     "education": "동국대학교 대학원 정치학과 졸업(정치학 박사)",
-    "career": "(전)방위사업추진위원회 위원(현)새정치민주연합 정책위원회 부의장",
+    "career": "(전)방위사업추진위원회 위원(현)더불어민주당 정책위원회 부의장",
     "criminal_record": "1건"
   },
   {
@@ -7680,6 +8592,22 @@
     "criminal_record": "없음"
   },
   {
+    "id": "100119071",
+    "city": "경기도",
+    "district": "용인시갑",
+    "district_long": "경기도/용인시갑",
+    "party": "새누리당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd4100/Gsg4135/Sgg2413501/Hb100119071/gicho/100119071.jpg",
+    "name": "조봉희(趙鳳熙)",
+    "gender": "남",
+    "age": "1956/11/16(59세)",
+    "address": "경기도 용인시 처인구 포곡읍 전대로",
+    "occupation": "정당인",
+    "education": "고려대학교 자연자원대학원 식량경제학과 졸업(경제학석사)",
+    "career": "(전)6대, 7대 경기도의원",
+    "criminal_record": "없음"
+  },
+  {
     "id": "100118676",
     "city": "경기도",
     "district": "용인시갑",
@@ -7694,6 +8622,22 @@
     "education": "고려대학교 법학과 졸업",
     "career": "(전)제19대 국회의원선거 용인시갑선거구 예비후보자(현)제19대 김민기 국회의원보좌관",
     "criminal_record": "없음"
+  },
+  {
+    "id": "100119120",
+    "city": "경기도",
+    "district": "용인시갑",
+    "district_long": "경기도/용인시갑",
+    "party": "더불어민주당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd4100/Gsg4135/Sgg2413501/Hb100119120/gicho/100119120.jpg",
+    "name": "곽동구(郭東求)",
+    "gender": "남",
+    "age": "1950/07/02(65세)",
+    "address": "경기도 용인시 처인구 중부대로1388번길",
+    "occupation": "정당인",
+    "education": "건국대학교 경제학과 졸업",
+    "career": "(전)천주교 수원교구 용인성당 총회장(현)더불어민주당 상무위원",
+    "criminal_record": "1건"
   },
   {
     "id": "100118971",
@@ -7726,6 +8670,22 @@
     "education": "연세대학교 행정학과 졸업",
     "career": "(전)서울시 정무부시장(전)18대 국회의원(비례대표)",
     "criminal_record": "없음"
+  },
+  {
+    "id": "100119093",
+    "city": "경기도",
+    "district": "용인시을",
+    "district_long": "경기도/용인시을",
+    "party": "새누리당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd4100/Gsg4137/Sgg2413701/Hb100119093/gicho/100119093.jpg",
+    "name": "서정석(徐挺碩)",
+    "gender": "남",
+    "age": "1949/08/06(66세)",
+    "address": "경기도 용인시 수지구 상현로",
+    "occupation": "정당인",
+    "education": "필리핀 산토토마스 대학교 대학원 졸업(정치학박사과정, 1990.3~1993.3, 정치학박사)",
+    "career": "(전)서울지방국토관리청장(전)용인시장",
+    "criminal_record": "1건"
   },
   {
     "id": "100118779",
@@ -7788,7 +8748,7 @@
     "address": "경기도 용인시 기흥구 보정로",
     "occupation": "정당인",
     "education": "서울대학교대학원 졸업(공학박사)",
-    "career": "(현)새정치민주연합 용인시병지역위원장(현)새정치민주연합 경기도당 교육연수위원장",
+    "career": "(현)더불어민주당 용인시병지역위원장(현)더불어민주당 경기도당 교육연수위원장",
     "criminal_record": "1건"
   },
   {
@@ -7902,6 +8862,22 @@
     "education": "성균관대학교 경상대학 경영학과 졸업",
     "career": "(전)장릉마을 입주자대표(제111동)(전)현대전자산업(주)(SK하이닉스) 근무",
     "criminal_record": "없음"
+  },
+  {
+    "id": "100119101",
+    "city": "경기도",
+    "district": "김포시",
+    "district_long": "경기도/김포시",
+    "party": "더불어민주당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd4100/Gsg4139/Sgg2413901/Hb100119101/gicho/100119101.jpg",
+    "name": "김두관(金斗官)",
+    "gender": "남",
+    "age": "1959/04/10(57세)",
+    "address": "경기도 김포시 김포한강11로",
+    "occupation": "정당인",
+    "education": "동아대학교 정치외교학과 졸업",
+    "career": "(전)제5대 행정자치부장관(현)더불어민주당 김포시지역위원장",
+    "criminal_record": "1건"
   },
   {
     "id": "100118515",
@@ -8048,6 +9024,22 @@
     "criminal_record": "없음"
   },
   {
+    "id": "100119077",
+    "city": "경기도",
+    "district": "이천시",
+    "district_long": "경기도/이천시",
+    "party": "새누리당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd4100/Gsg4134/Sgg2413401/Hb100119077/gicho/100119077.jpg",
+    "name": "김경희(金敬姬)",
+    "gender": "여",
+    "age": "1955/05/11(60세)",
+    "address": "경기도 이천시 이섭대천로1419번길",
+    "occupation": "정당인",
+    "education": "이화여자대학교 정책과학대학원 정책과학과 졸업(정책학 석사)",
+    "career": "(전)이천시부시장(현)새누리당 중앙위원회 여성분과위원",
+    "criminal_record": "없음"
+  },
+  {
     "id": "100118768",
     "city": "경기도",
     "district": "이천시",
@@ -8060,14 +9052,30 @@
     "address": "경기도 이천시 갈산로",
     "occupation": "변호사",
     "education": "단국대학교 법학과 졸업",
-    "career": "(전)이천시청 고문변호사(현)새정치민주연합이천시지역위원장",
+    "career": "(전)이천시청 고문변호사(현)더불어민주당이천시지역위원장",
     "criminal_record": "1건"
+  },
+  {
+    "id": "100119067",
+    "city": "경기도",
+    "district": "여주시양평군가평군",
+    "district_long": "경기도/여주시양평군가평군",
+    "party": "새누리당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd4100/Gsg4133/Sgg2414302/Hb100119067/gicho/100119067.jpg",
+    "name": "이규택(李揆澤)",
+    "gender": "남",
+    "age": "1942/07/20(73세)",
+    "address": "경기도 여주시 여흥로",
+    "occupation": "한국교직원공제회 이사장",
+    "education": "서울대학교 사범대학 교육과 졸업",
+    "career": "(전)국회의원(4선)(전)한나라당 원내총무",
+    "criminal_record": "없음"
   },
   {
     "id": "100118986",
     "city": "경기도",
-    "district": "여주군양평군가평군",
-    "district_long": "경기도/여주군양평군가평군",
+    "district": "여주시양평군가평군",
+    "district_long": "경기도/여주시양평군가평군",
     "party": "더불어민주당",
     "picture": "http://info.nec.go.kr/photo_20160413/Sd4100/Gsg4133/Sgg2414302/Hb100118986/gicho/100118986.jpg",
     "name": "신순봉(申順鳳)",
@@ -8125,6 +9133,22 @@
     "occupation": "정당인",
     "education": "일본사이타마대학교 정책과학대학원 졸업(정책과학석사, 1988. 10. 1 ~ 1990. 9. 21)",
     "career": "(전)기획재정부 예산총괄국장(전)특허청장(차관급)",
+    "criminal_record": "없음"
+  },
+  {
+    "id": "100119089",
+    "city": "강원도",
+    "district": "춘천시",
+    "district_long": "강원도/춘천시",
+    "party": "새누리당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd4200/Gsg4201/Sgg2420101/Hb100119089/gicho/100119089.jpg",
+    "name": "이순모(李淳謨)",
+    "gender": "남",
+    "age": "1964/07/15(51세)",
+    "address": "서울특별시 종로구 진흥로",
+    "occupation": "겸임교수",
+    "education": "서강대학교 영상대학원(영상학 박사) 졸업",
+    "career": "(전)대통령실 선임행정관(현)경기대학교 일반대학원 언론미디어학과 겸임교수",
     "criminal_record": "없음"
   },
   {
@@ -8384,6 +9408,22 @@
     "criminal_record": "1건"
   },
   {
+    "id": "100119084",
+    "city": "강원도",
+    "district": "속초시고성군양양군",
+    "district_long": "강원도/속초시고성군양양군",
+    "party": "무소속",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd4200/Gsg4208/Sgg2420801/Hb100119084/gicho/100119084.jpg",
+    "name": "송훈석(宋勳錫)",
+    "gender": "남",
+    "age": "1950/10/08(65세)",
+    "address": "강원도 속초시 청대로204번길",
+    "occupation": "변호사",
+    "education": "고려대학교 법과대학 행정학과 졸업",
+    "career": "(전)춘천지방검찰청 속초지청장(전)15,16,18대 국회의원",
+    "criminal_record": "없음"
+  },
+  {
     "id": "100118983",
     "city": "강원도",
     "district": "철원군화천군양구군인제군",
@@ -8398,6 +9438,22 @@
     "education": "동국대학교 경찰행정학과 졸업",
     "career": "(전) 경기경찰청 제2청 차장(전) 강원경찰청장",
     "criminal_record": "없음"
+  },
+  {
+    "id": "100119116",
+    "city": "충청북도",
+    "district": "청주시상당구",
+    "district_long": "충청북도/청주시상당구",
+    "party": "더불어민주당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd4300/Gsg4301/Sgg2430101/Hb100119116/gicho/100119116.jpg",
+    "name": "김형근(金亨根)",
+    "gender": "남",
+    "age": "1960/01/26(56세)",
+    "address": "충청북도 청주시 상당구 용담로63번길",
+    "occupation": "자영업",
+    "education": "충북대학교 경영학과 졸업",
+    "career": "(전) 충청북도의회의장(현) 더불어민주당 중앙당부대변인",
+    "criminal_record": "1건"
   },
   {
     "id": "100118312",
@@ -8445,6 +9501,22 @@
     "occupation": "정당인",
     "education": "연세대학교 행정대학원 졸업(행정학 석사)",
     "career": "(전)청주시장(전)한나라당 제2사무부총장",
+    "criminal_record": "없음"
+  },
+  {
+    "id": "100119118",
+    "city": "충청북도",
+    "district": "청주시흥덕구갑",
+    "district_long": "충청북도/청주시흥덕구갑",
+    "party": "더불어민주당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd4300/Gsg4314/Sgg2430201/Hb100119118/gicho/100119118.jpg",
+    "name": "오제세(吳濟世)",
+    "gender": "남",
+    "age": "1949/04/05(67세)",
+    "address": "충청북도 청주시 서원구 1순환로1137번길",
+    "occupation": "국회의원",
+    "education": "서울대학교 법과대학 행정학과 졸업",
+    "career": "(전)국회 보건복지위원장(현)제19대 국회의원",
     "criminal_record": "없음"
   },
   {
@@ -8509,6 +9581,22 @@
     "occupation": "정당인",
     "education": "미기재",
     "career": "(전)새누리당중앙선거대책위원회지능총괄본부건전노사위원장(현)한국일용근로자복지협회충북지회 지회장(비영리단체)",
+    "criminal_record": "1건"
+  },
+  {
+    "id": "100119074",
+    "city": "충청북도",
+    "district": "청주시흥덕구을",
+    "district_long": "충청북도/청주시흥덕구을",
+    "party": "새누리당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd4300/Gsg4302/Sgg2430202/Hb100119074/gicho/100119074.jpg",
+    "name": "신용한(慎鏞漢)",
+    "gender": "남",
+    "age": "1969/05/02(46세)",
+    "address": "충청북도 청주시 흥덕구 증안로",
+    "occupation": "지엘인베스트먼트 대표",
+    "education": "연세대학교 대학원 졸업(법학석사)",
+    "career": "(전)대통령직속 청년위원회 위원장(현)정부 경제혁신3개년계획 국민점검반 위원",
     "criminal_record": "1건"
   },
   {
@@ -8588,7 +9676,7 @@
     "address": "충청북도 제천시 내토로57길",
     "occupation": "변호사",
     "education": "동국대학교 법학과 졸업",
-    "career": "(전) 제천시 체육회 이사(현) 변호사송인만법률사무소 대표",
+    "career": "(전) 제천시 고문 변호사(현) 변호사송인만법률사무소 대표",
     "criminal_record": "없음"
   },
   {
@@ -8784,6 +9872,22 @@
     "criminal_record": "없음"
   },
   {
+    "id": "100119092",
+    "city": "충청북도",
+    "district": "청원군",
+    "district_long": "충청북도/청원군",
+    "party": "더불어민주당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd4300/Gsg4306/Sgg2430601/Hb100119092/gicho/100119092.jpg",
+    "name": "변재일(卞在一)",
+    "gender": "남",
+    "age": "1948/09/02(67세)",
+    "address": "충청북도 청주시 청원구 오창읍 오창중앙로",
+    "occupation": "국회의원",
+    "education": "미국 펜실베니아대학교 정치학 석사 졸업(1981.9.3.~1983.5.23.)",
+    "career": "(전)정보통신부 차관(현)국회예산결산특별위원회 위원",
+    "criminal_record": "없음"
+  },
+  {
     "id": "100118708",
     "city": "충청북도",
     "district": "보은군옥천군영동군",
@@ -8812,7 +9916,7 @@
     "address": "충청북도 음성군 금왕읍 대금로",
     "occupation": "정당인",
     "education": "가천대학교 대학원 회계·세무학과 박사과정 수료",
-    "career": "(전)기획재정부 공공정책국장(현)새정치민주연합 증평·진천·괴산·음성 지역위원장",
+    "career": "(전)기획재정부 공공정책국장(현)더불어민주당 증평·진천·괴산·음성 지역위원장 ",
     "criminal_record": "없음"
   },
   {
@@ -8926,6 +10030,22 @@
     "education": "고려대학교 문과대학 언어학과 졸업",
     "career": "(전)산업통상자원부 장관 정책보좌관(현)새누리당 중앙당 국장",
     "criminal_record": "2건"
+  },
+  {
+    "id": "100119096",
+    "city": "충청남도",
+    "district": "공주시",
+    "district_long": "충청남도/공주시",
+    "party": "새누리당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd4400/Gsg4402/Sgg2440202/Hb100119096/gicho/100119096.jpg",
+    "name": "정진석(鄭鎭碩)",
+    "gender": "남",
+    "age": "1960/09/04(55세)",
+    "address": "충청남도 공주시 관골1길",
+    "occupation": "정당인",
+    "education": "고려대학교 정치외교학과 졸업",
+    "career": "(전)3선 국회의원(16,17,18대)(전)청와대 정무수석",
+    "criminal_record": "없음"
   },
   {
     "id": "100118709",
@@ -9216,6 +10336,22 @@
     "criminal_record": "없음"
   },
   {
+    "id": "100119131",
+    "city": "충청남도",
+    "district": "당진시",
+    "district_long": "충청남도/당진시",
+    "party": "새누리당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd4400/Gsg4416/Sgg2441601/Hb100119131/gicho/100119131.jpg",
+    "name": "정석래(鄭碩來)",
+    "gender": "남",
+    "age": "1952/03/28(64세)",
+    "address": "충청남도 당진시 무수동옛길",
+    "occupation": "정당인",
+    "education": "호서대학교 대학원 경영학과 졸업(경영학박사)",
+    "career": "(전)당진중학교 총동창회장(전)박근혜대통령후보 중앙선대위 당진발전특별위원회 위원장",
+    "criminal_record": "1건"
+  },
+  {
     "id": "100118820",
     "city": "충청남도",
     "district": "당진시",
@@ -9340,7 +10476,7 @@
     "address": "전라북도 전주시 완산구 호암로",
     "occupation": "정당인",
     "education": "전북대학교 행정대학원 졸업(정치학 석사)",
-    "career": "(현)노무현재단 전북지역위 공동대표(현)새정치민주연합 정책위 부의장",
+    "career": "(현)노무현재단 전북지역위 공동대표(현)더불어민주당 정책위 부의장",
     "criminal_record": "없음"
   },
   {
@@ -9358,6 +10494,22 @@
     "education": "한국외국어대학교 대학원 정치외교학과 박사학위과정 수료",
     "career": "(전)신창중학교 교사(현)민초연합 창당준비 위원회 대표",
     "criminal_record": "없음"
+  },
+  {
+    "id": "100119125",
+    "city": "전라북도",
+    "district": "전주시완산구을",
+    "district_long": "전라북도/전주시완산구을",
+    "party": "무소속",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd4500/Gsg4501/Sgg2450102/Hb100119125/gicho/100119125.jpg",
+    "name": "장세환(張世煥)",
+    "gender": "남",
+    "age": "1953/01/14(63세)",
+    "address": "전라북도 전주시 완산구 전룡로",
+    "occupation": "정치인",
+    "education": "전북대학교 법정대학 졸업(법학사)",
+    "career": "(전)18대 국회의원(전)전북대병원 상임감사",
+    "criminal_record": "2건"
   },
   {
     "id": "100118484",
@@ -9390,6 +10542,22 @@
     "education": "고려대학교 언론대학원 석사과정 언론뉴미디어학과 언론전공 3학기 휴학중",
     "career": "(현)사단법인 미래언론정책연구원 이사장(현)금성장례식장 회장",
     "criminal_record": "1건"
+  },
+  {
+    "id": "100119062",
+    "city": "전라북도",
+    "district": "군산시",
+    "district_long": "전라북도/군산시",
+    "party": "정의당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd4500/Gsg4503/Sgg2450301/Hb100119062/gicho/100119062.jpg",
+    "name": "조준호(趙俊虎)",
+    "gender": "남",
+    "age": "1958/10/23(57세)",
+    "address": "전라북도 군산시 부곡1길",
+    "occupation": "회사원",
+    "education": "군산제일고등학교 졸업",
+    "career": "(전)민주노총 위원장(전)정의당 초대 대표",
+    "criminal_record": "2건"
   },
   {
     "id": "100118936",
@@ -9466,7 +10634,7 @@
     "gender": "남",
     "age": "1958/02/13(58세)",
     "address": "전라북도 익산시 배산로14길",
-    "occupation": "자영업",
+    "occupation": "정치인",
     "education": "성균관대학교 사학과 졸업",
     "career": "(전)새천년민주당 정책위 총괄실장(김대중 정부)(전)민주당 정책위 부의장",
     "criminal_record": "없음"
@@ -9648,6 +10816,22 @@
     "criminal_record": "1건"
   },
   {
+    "id": "100119112",
+    "city": "전라북도",
+    "district": "남원시순창군",
+    "district_long": "전라북도/남원시순창군",
+    "party": "무소속",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd4500/Gsg4508/Sgg2450801/Hb100119112/gicho/100119112.jpg",
+    "name": "이용호(李容鎬)",
+    "gender": "남",
+    "age": "1960/03/20(56세)",
+    "address": "전라북도 남원시 용성로",
+    "occupation": "정치인",
+    "education": "서울대학교 산업공학과 졸업",
+    "career": "(전)국무총리실 공보비서관(전)국회 홍보기획관",
+    "criminal_record": "없음"
+  },
+  {
     "id": "100118358",
     "city": "전라북도",
     "district": "김제시완주군",
@@ -9660,7 +10844,7 @@
     "address": "전라북도 완주군 봉동읍 둔산3로",
     "occupation": "정당인",
     "education": "전주대학교 일반대학원 경영학과 박사과정 4학기 재학중",
-    "career": "(전)기업은행부행장(현)새정치민주연합전라북도당부위원장",
+    "career": "(전)기업은행부행장(현)더불어민주당전라북도당부위원장",
     "criminal_record": "없음"
   },
   {
@@ -9680,6 +10864,22 @@
     "criminal_record": "2건"
   },
   {
+    "id": "100119085",
+    "city": "전라북도",
+    "district": "김제시완주군",
+    "district_long": "전라북도/김제시완주군",
+    "party": "무소속",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd4500/Gsg4509/Sgg2450901/Hb100119085/gicho/100119085.jpg",
+    "name": "김종회(金鍾懷)",
+    "gender": "남",
+    "age": "1965/08/24(50세)",
+    "address": "전라북도 김제시 성덕면 성동길",
+    "occupation": "정당인",
+    "education": "원광대학교 한의학전문대학원 한의정보학과 졸업(한의학박사)",
+    "career": "(전)원광대학교 한의학과대학 겸임교수(전)새정치민주연합 정책위원회 부의장",
+    "criminal_record": "없음"
+  },
+  {
     "id": "100118531",
     "city": "전라북도",
     "district": "진안군무주군장수군임실군",
@@ -9692,7 +10892,7 @@
     "address": "전라북도 진안군 동향면 추동1길",
     "occupation": "변호사",
     "education": "전북대학교 일반대학원 법학과 박사과정 수료",
-    "career": "(현)국민농업전북포럼대표(현)새정치민주연합정책위원회부의장",
+    "career": "(현)국민농업전북포럼공동대표(현)새정치민주연합정책위원회부의장",
     "criminal_record": "없음"
   },
   {
@@ -10128,6 +11328,22 @@
     "criminal_record": "1건"
   },
   {
+    "id": "100119114",
+    "city": "전라남도",
+    "district": "광양시구례군",
+    "district_long": "전라남도/광양시구례군",
+    "party": "무소속",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd4600/Gsg4607/Sgg2460702/Hb100119114/gicho/100119114.jpg",
+    "name": "정인화(鄭仁和)",
+    "gender": "남",
+    "age": "1957/07/27(58세)",
+    "address": "전라남도 광양시 광장로",
+    "occupation": "무직",
+    "education": "한양대학교 국제관광대학원 관광정책개발학과 졸업(석사)",
+    "career": "(전)광양부시장(전)전라남도관광문화국장",
+    "criminal_record": "없음"
+  },
+  {
     "id": "100118843",
     "city": "전라남도",
     "district": "고흥군보성군",
@@ -10320,6 +11536,22 @@
     "criminal_record": "없음"
   },
   {
+    "id": "100119115",
+    "city": "경상북도",
+    "district": "포항시남구울릉군",
+    "district_long": "경상북도/포항시남구울릉군",
+    "party": "새누리당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd4700/Gsg4702/Sgg2470201/Hb100119115/gicho/100119115.jpg",
+    "name": "김순견(金淳見)",
+    "gender": "남",
+    "age": "1959/12/29(56세)",
+    "address": "경상북도 포항시 남구 연일읍 유강길9번길",
+    "occupation": "정당인",
+    "education": "영남대학교 대학원 졸업 (행정학박사)",
+    "career": "(전) 새누리당 포항시남구울릉군 당협위원장(현) 한국전력기술 상임감사",
+    "criminal_record": "없음"
+  },
+  {
     "id": "100118695",
     "city": "경상북도",
     "district": "경주시",
@@ -10478,6 +11710,22 @@
     "education": "서강대학교 경영학과 졸업",
     "career": "(전)제18대 국회의원(전)특임차관",
     "criminal_record": "1건"
+  },
+  {
+    "id": "100119144",
+    "city": "경상북도",
+    "district": "안동시",
+    "district_long": "경상북도/안동시",
+    "party": "새누리당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd4700/Gsg4706/Sgg2470601/Hb100119144/gicho/100119144.jpg",
+    "name": "박인우(朴仁雨)",
+    "gender": "남",
+    "age": "1961/08/20(54세)",
+    "address": "경상북도 안동시 감나무5길",
+    "occupation": "대학교수",
+    "education": "경안신학대학원대학교 사회복지학과 졸업(석사)",
+    "career": "(전)안동자원봉사센터 이사장(현)가톨릭상지대학교 교수",
+    "criminal_record": "없음"
   },
   {
     "id": "100118995",
@@ -10672,6 +11920,22 @@
     "criminal_record": "없음"
   },
   {
+    "id": "100119138",
+    "city": "경상북도",
+    "district": "구미시을",
+    "district_long": "경상북도/구미시을",
+    "party": "새누리당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd4700/Gsg4707/Sgg2470702/Hb100119138/gicho/100119138.JPG",
+    "name": "허성우(許聖雨)",
+    "gender": "남",
+    "age": "1960/07/27(55세)",
+    "address": "경상북도 구미시 장천면 상장3길",
+    "occupation": "(사) 국가디자인연구소 이사장",
+    "education": "경희대학교 대학원 정치학과 졸업 (정치학 박사)",
+    "career": "(현) 경희대학교 정치외교학과 겸임교수(현) 사단법인 국가디자인연구소 이사장",
+    "criminal_record": "없음"
+  },
+  {
     "id": "100118320",
     "city": "경상북도",
     "district": "영주시",
@@ -10752,6 +12016,22 @@
     "criminal_record": "없음"
   },
   {
+    "id": "100118539",
+    "city": "경상북도",
+    "district": "상주시",
+    "district_long": "경상북도/상주시",
+    "party": "새누리당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd4700/Gsg4710/Sgg2471001/Hb100118539/gicho/100118539.jpg",
+    "name": "성윤환(成允煥)",
+    "gender": "남",
+    "age": "1956/08/29(59세)",
+    "address": "경상북도 상주시 삼백로",
+    "occupation": "변호사",
+    "education": "한양대학교 대학원 법학과 석사과정 수료",
+    "career": "(전) 제18대 국회의원(전) 부장검사",
+    "criminal_record": "없음"
+  },
+  {
     "id": "100118878",
     "city": "경상북도",
     "district": "상주시",
@@ -10766,22 +12046,6 @@
     "education": "건국대학교 일반대학원 행정학과 졸업(행정학박사)",
     "career": "(전) 매일경제신문사 기자(전) 계명대학교 정책대학원 부동산석사과정 전담교수",
     "criminal_record": "1건"
-  },
-  {
-    "id": "100118539",
-    "city": "경상북도",
-    "district": "상주시",
-    "district_long": "경상북도/상주시",
-    "party": "무소속",
-    "picture": "http://info.nec.go.kr/photo_20160413/Sd4700/Gsg4710/Sgg2471001/Hb100118539/gicho/100118539.jpg",
-    "name": "성윤환(成允煥)",
-    "gender": "남",
-    "age": "1956/08/29(59세)",
-    "address": "경상북도 상주시 삼백로",
-    "occupation": "변호사",
-    "education": "한양대학교 대학원 법학과 석사과정 수료",
-    "career": "(전) 제18대 국회의원(전) 부장검사",
-    "criminal_record": "없음"
   },
   {
     "id": "100118951",
@@ -10894,6 +12158,54 @@
     "education": "중국 북경대학 경제학원 박사과정 졸업(경제학박사, 1993. 9.~1996. 7.)",
     "career": "(전)창원대학교 2010년 교무처장을 업무방해 한 형사처벌 당사자(현)창원대학교 1997년 총장을 위증했다고 계속 고소하는 당사자",
     "criminal_record": "없음"
+  },
+  {
+    "id": "100119058",
+    "city": "경상남도",
+    "district": "창원시의창구",
+    "district_long": "경상남도/창원시의창구",
+    "party": "새누리당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd4800/Gsg4821/Sgg2480101/Hb100119058/gicho/100119058.jpg",
+    "name": "박완수(朴完洙)",
+    "gender": "남",
+    "age": "1955/08/10(60세)",
+    "address": "경상남도 창원시 의창구 북면 감계로",
+    "occupation": "정당인",
+    "education": "경남대학교 대학원 행정학과 졸업(행정학 박사)",
+    "career": "(전)창원시장(전)국제인천공항공사 사장",
+    "criminal_record": "없음"
+  },
+  {
+    "id": "100119076",
+    "city": "경상남도",
+    "district": "창원시의창구",
+    "district_long": "경상남도/창원시의창구",
+    "party": "더불어민주당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd4800/Gsg4821/Sgg2480101/Hb100119076/gicho/100119076.jpg",
+    "name": "김기운(金起運)",
+    "gender": "남",
+    "age": "1960/02/28(56세)",
+    "address": "경상남도 창원시 의창구 북면 감계로",
+    "occupation": "정당인",
+    "education": "연세대학교 행정대학원 졸업(행정학 석사)",
+    "career": "(전)국회정책연구위원(2급)(전)세화대학 초빙교수",
+    "criminal_record": "없음"
+  },
+  {
+    "id": "100119059",
+    "city": "경상남도",
+    "district": "창원시의창구",
+    "district_long": "경상남도/창원시의창구",
+    "party": "무소속",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd4800/Gsg4821/Sgg2480101/Hb100119059/gicho/100119059.jpg",
+    "name": "박성만(朴性滿)",
+    "gender": "남",
+    "age": "1959/07/01(56세)",
+    "address": "경상남도 창원시 의창구 명서로126번길",
+    "occupation": "인성교육교사",
+    "education": "율촌남국민학교 졸업",
+    "career": "(전)김해 신화마그네슘 회사 근무(전)하남 농공단지 내 (주)씨에이메탈 근무",
+    "criminal_record": "3건"
   },
   {
     "id": "100118394",
@@ -11033,7 +12345,7 @@
     "name": "박종춘(朴鍾春)",
     "gender": "남",
     "age": "1962/05/01(53세)",
-    "address": "경상남도 창원시 진해구 냉천로",
+    "address": "경상남도 창원시 진해구 천자로",
     "occupation": "신대양주식회사 대표이사",
     "education": "경남대학교 대학원 행정학과 졸업(행정학 박사)",
     "career": "(전)창원시 바르게살기 협의회 회장(현)진해 중소기업협회 회장",
@@ -11056,6 +12368,22 @@
     "criminal_record": "2건"
   },
   {
+    "id": "100119073",
+    "city": "경상남도",
+    "district": "창원시진해구",
+    "district_long": "경상남도/창원시진해구",
+    "party": "무소속",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd4800/Gsg4825/Sgg2480401/Hb100119073/gicho/100119073.jpg",
+    "name": "최연길(崔然吉)",
+    "gender": "남",
+    "age": "1959/07/01(56세)",
+    "address": "경상남도 창원시 진해구 속천로",
+    "occupation": "(주)에어존 부산 경남지사장",
+    "education": "경남대학교 경영대학원 졸업",
+    "career": "(전)진해경제실천연합회 공동대표(현)진실을 위한 시민모임 대표",
+    "criminal_record": "3건"
+  },
+  {
     "id": "100118575",
     "city": "경상남도",
     "district": "진주시갑",
@@ -11070,6 +12398,38 @@
     "education": "성균관대학교 기계설계학과 졸업",
     "career": "(전)대통령실 기획관리비서관(현)진주일자리희망센터 이사장",
     "criminal_record": "2건"
+  },
+  {
+    "id": "100119056",
+    "city": "경상남도",
+    "district": "진주시갑",
+    "district_long": "경상남도/진주시갑",
+    "party": "새누리당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd4800/Gsg4803/Sgg2480301/Hb100119056/gicho/100119056.JPG",
+    "name": "변항종(卞恒鍾)",
+    "gender": "남",
+    "age": "1957/04/23(58세)",
+    "address": "부산광역시 수영구 광안해변로",
+    "occupation": "정당인",
+    "education": "동아대학교 정치외교학과 졸업",
+    "career": "(전)해운대경찰서장(전)진주경찰서장",
+    "criminal_record": "없음"
+  },
+  {
+    "id": "100119113",
+    "city": "경상남도",
+    "district": "진주시갑",
+    "district_long": "경상남도/진주시갑",
+    "party": "새누리당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd4800/Gsg4803/Sgg2480301/Hb100119113/gicho/100119113.JPG",
+    "name": "최구식(崔球植)",
+    "gender": "남",
+    "age": "1960/10/11(55세)",
+    "address": "경상남도 진주시 비봉로",
+    "occupation": "정치인",
+    "education": "서울대학교 사회과학대학 외교학과 졸업",
+    "career": "(전)경상남도 서부부지사(전)17대, 18대 국회의원",
+    "criminal_record": "없음"
   },
   {
     "id": "100118602",
@@ -11360,6 +12720,22 @@
     "criminal_record": "3건"
   },
   {
+    "id": "100119124",
+    "city": "경상남도",
+    "district": "김해시을",
+    "district_long": "경상남도/김해시을",
+    "party": "무소속",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd4800/Gsg4808/Sgg2480802/Hb100119124/gicho/100119124.jpg",
+    "name": "이형우(李炯雨)",
+    "gender": "남",
+    "age": "1972/03/14(44세)",
+    "address": "서울특별시 성동구 행당로",
+    "occupation": "변호사",
+    "education": "한국외국어대학교 법학과 졸업",
+    "career": "(전)외교통상부 국제법률국 변호사(사무관)(현)변호사",
+    "criminal_record": "없음"
+  },
+  {
     "id": "100118781",
     "city": "경상남도",
     "district": "밀양시창녕군",
@@ -11552,22 +12928,6 @@
     "criminal_record": "없음"
   },
   {
-    "id": "100118780",
-    "city": "경상남도",
-    "district": "양산시",
-    "district_long": "경상남도/양산시",
-    "party": "새누리당",
-    "picture": "http://info.nec.go.kr/photo_20160413/Sd4800/Gsg4814/Sgg2481401/Hb100118780/gicho/100118780.jpg",
-    "name": "김정희(金貞姬)",
-    "gender": "여",
-    "age": "1958/09/07(57세)",
-    "address": "경상남도 양산시 진등1길",
-    "occupation": "늘푸른 요양원 원장",
-    "education": "부경대학교 대학원 신문방송학과 박사 과정 3학년 재학",
-    "career": "(전)제 18대 대통령 선거 박근혜 후보 선대위 중앙위 특별 본부 정책 단장(현)새누리당 중앙위 보건위생분과 부위원장, 운영위원",
-    "criminal_record": "없음"
-  },
-  {
     "id": "100118770",
     "city": "경상남도",
     "district": "양산시",
@@ -11582,6 +12942,22 @@
     "education": "미국 오하이오 주립대학교 이학박사학위(측지측량학 전공) 취득(1988.9~1995.3)",
     "career": "(전)경남대학교 토목환경공학부 교수(현)KGM(주) 사장",
     "criminal_record": "2건"
+  },
+  {
+    "id": "100118780",
+    "city": "경상남도",
+    "district": "양산시",
+    "district_long": "경상남도/양산시",
+    "party": "새누리당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd4800/Gsg4814/Sgg2481401/Hb100118780/gicho/100118780.jpg",
+    "name": "김정희(金貞姬)",
+    "gender": "여",
+    "age": "1958/09/07(57세)",
+    "address": "경상남도 양산시 진등1길",
+    "occupation": "늘푸른 요양원 원장",
+    "education": "부경대학교 대학원 신문방송학과 박사 과정 3학년 재학",
+    "career": "(전)제 18대 대통령 선거 박근혜 후보 선대위 중앙위 특별 본부 정책 단장(현)새누리당 중앙위 보건위생분과 부위원장, 운영위원",
+    "criminal_record": "없음"
   },
   {
     "id": "100118439",
@@ -11630,6 +13006,22 @@
     "education": "부산대학교 경영대학원 졸업(경영학 석사)",
     "career": "(전)양산시의원(현)경남 한반도통일산악회/포럼 공동대표",
     "criminal_record": "2건"
+  },
+  {
+    "id": "100119130",
+    "city": "경상남도",
+    "district": "양산시",
+    "district_long": "경상남도/양산시",
+    "party": "새누리당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd4800/Gsg4814/Sgg2481401/Hb100119130/gicho/100119130.jpg",
+    "name": "윤영석(尹永碩)",
+    "gender": "남",
+    "age": "1964/10/07(51세)",
+    "address": "경상남도 양산시 양주로",
+    "occupation": "국회의원",
+    "education": "듀크대학교 대학원(국제발전정책학 전공) 졸업(문학 석사)(2002. 7. ~ 2004. 6.)",
+    "career": "(전)하버드대 객원연구원(현)제19대 국회의원",
+    "criminal_record": "없음"
   },
   {
     "id": "100118534",
@@ -11726,6 +13118,22 @@
     "education": "고려대학교 정책대학원 석사과정 도시 및 지방행정학과 재학",
     "career": "(전)서울특별시의회 의원(전)새누리당 여의도 연구원 정책자문위원",
     "criminal_record": "없음"
+  },
+  {
+    "id": "100119098",
+    "city": "경상남도",
+    "district": "의령군함안군합천군",
+    "district_long": "경상남도/의령군함안군합천군",
+    "party": "무소속",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd4800/Gsg4812/Sgg2481201/Hb100119098/gicho/100119098.jpg",
+    "name": "이구녕(李龜寧)",
+    "gender": "남",
+    "age": "1955/11/19(60세)",
+    "address": "경상남도 함안군 여항면 여항로",
+    "occupation": "농업",
+    "education": "경남대학교 법학과 졸업",
+    "career": "(전)유한양행 근무",
+    "criminal_record": "1건"
   },
   {
     "id": "100118627",
@@ -11840,6 +13248,22 @@
     "criminal_record": "1건"
   },
   {
+    "id": "100119088",
+    "city": "제주특별자치도",
+    "district": "제주시갑",
+    "district_long": "제주특별자치도/제주시갑",
+    "party": "무소속",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd4900/Gsg4901/Sgg2490101/Hb100119088/gicho/100119088.jpg",
+    "name": "장정애(張禎愛)",
+    "gender": "여",
+    "age": "1964/04/20(51세)",
+    "address": "제주특별자치도 제주시 신대로17길",
+    "occupation": "정치인",
+    "education": "서울대학교 대학원 졸업(문학박사)",
+    "career": "(전)중앙선거관리위원회 선거연수원 전임교수(현)사단법인 제주주권연구소 새희망제주포럼 이사장",
+    "criminal_record": "없음"
+  },
+  {
     "id": "100118392",
     "city": "제주특별자치도",
     "district": "제주시을",
@@ -11902,6 +13326,22 @@
     "education": "제주대학교 경영대학원 졸업(회계학 전공) 석사",
     "career": "(전)한국방송통신대학교 제주지역 총학생회장(전)민주평통 자문위원",
     "criminal_record": "6건"
+  },
+  {
+    "id": "100119054",
+    "city": "제주특별자치도",
+    "district": "제주시을",
+    "district_long": "제주특별자치도/제주시을",
+    "party": "새누리당",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd4900/Gsg4901/Sgg2490102/Hb100119054/gicho/100119054.jpg",
+    "name": "이연봉(李連奉)",
+    "gender": "남",
+    "age": "1956/08/20(59세)",
+    "address": "제주특별자치도 제주시 고마로",
+    "occupation": "변호사",
+    "education": "고려대학교 법학과 졸업",
+    "career": "(현)해병대전우회 제주특별자치도 연합회장(현)새누리당제주특별자치도당위원장",
+    "criminal_record": "없음"
   },
   {
     "id": "100118984",
@@ -12012,7 +13452,7 @@
     "address": "제주특별자치도 서귀포시 대정읍 일과로",
     "occupation": "정당인",
     "education": "제주대학교 대학원 법학과 졸업(법학석사)",
-    "career": "(전)제9대 제주특별자치도의회 의장(현)새정치민주연합중앙당 정책위 부의장",
+    "career": "(전)제9대 제주특별자치도의회 의장(현)더불어민주당 중앙당 정책위 부의장",
     "criminal_record": "없음"
   },
   {
@@ -12030,5 +13470,21 @@
     "education": "제주대학교 농과대학 원예학과 졸업",
     "career": "(전)8, 9, 10대 제주특별자치도의원(전)제주대학교 총학생회장",
     "criminal_record": "1건"
+  },
+  {
+    "id": "100119069",
+    "city": "제주특별자치도",
+    "district": "서귀포시",
+    "district_long": "제주특별자치도/서귀포시",
+    "party": "무소속",
+    "picture": "http://info.nec.go.kr/photo_20160413/Sd4900/Gsg4902/Sgg2490201/Hb100119069/gicho/100119069.jpg",
+    "name": "임형문(任亨文)",
+    "gender": "남",
+    "age": "1961/11/09(54세)",
+    "address": "제주특별자치도 서귀포시 남원읍 위미대원하로",
+    "occupation": "농업",
+    "education": "제주대학교 행정학과 졸업",
+    "career": "(전)서귀포시 남원읍 위미2리장(전)제주특별자치도 연합청년회장",
+    "criminal_record": "없음"
   }
 ]
