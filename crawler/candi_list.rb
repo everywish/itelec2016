@@ -57,23 +57,31 @@ list_doc.css("table#table01").css("tr").each_with_index do |tr, idx|
   candi_array =  tr.css("td")
   h = {}
   if candi_array.size>0
-    photo = candi_array.at(2).children[1].attribute_nodes[1].to_s
+    #STDERR.puts "==="
+    #STDERR.puts candi_array.at(3).to_s
+    #STDERR.puts candi_array.at(2).children[1].to_s
+    #STDERR.puts "==="
+    #exit
+    photo = candi_array.at(2).children[1].attribute_nodes[1].to_s if candi_array.at(2).children[1]
 
     # 맨 뒤의 파일이름이 후보의 유니크 아이디인 듯.
     # photo = http://info.nec.go.kr/photo_20160413/Sd1100/Gsg1101/Sgg2110101/Hb100118435/gicho/100118435.jpg
 
-    h[:id]              = photo.scan( /\/gicho\/(.+)\./).first[0].to_s
-
+    #h[:id]              = photo.scan( /\/gicho\/(.+)\./).first[0].to_s
+    #STDERR.puts candi_array.at(2).to_s
+    #STDERR.puts candi_array.at(3).to_s
+    h[:id]              = candi_array.at(3).to_s.scan( /popupPreHBJ\((.+)/)[0].to_s.split("'")[3]
+    #STDERR.puts h[:id]
     
     # Sd 가 시도를 의미하고, 뒤의 숫자와 select#cityCode 의 숫자를 이용하면 시도이름을 얻을 수 있다.
 
-    h[:city]            = city_list[photo.scan( /\/Sd(.+)\/Gsg/).first[0].to_s]
+    h[:city]            = city_list[photo.scan( /\/Sd(.+)\/Gsg/).first[0].to_s] if photo
 
 
     h[:district]        = candi_array.at(0).content
     h[:district_long]   = "#{h[:city]}/#{h[:district]}"
     h[:party]           = candi_array.at(1).content
-    h[:picture]         = PIC_PREFIX+candi_array.at(2).children[1].attribute_nodes[1]
+    h[:picture]         = PIC_PREFIX+candi_array.at(2).children[1].attribute_nodes[1] if photo
     h[:name]            = candi_array.at(3).content.strip 
     h[:gender]          = candi_array.at(4).content.strip
     h[:age]             = candi_array.at(5).content      
