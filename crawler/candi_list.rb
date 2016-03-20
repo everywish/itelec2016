@@ -21,13 +21,11 @@ PIC_PREFIX= "http://#{NEC_SERVER}"
 
 # 후보 목록 페이지
 CANDI_LIST= '/electioninfo/electionInfo_report.xhtml'+
-            '?electionId=0020160413'+
-            '&requestURI=%2Felectioninfo%2F0020160413%2Fpc%2Fpcri03_ex.jsp'+
-            '&topMenuId=PC&secondMenuId=PCRI03&menuId='+
-            '&statementId=PCRI03_%232'+
-            '&electionCode=2'+
-            '&townCode=-1&sggTownCode=0&x=19&y=14'+
-            '&electionCode=2&cityCode=0&sggCityCode=0'
+            '?electionId=0020160413&'+
+            'requestURI=%2FWEB-INF%2Fjsp%2Felectioninfo%2F0020160413%2Fpc%2Fpcri03_ex.jsp'+
+            '&topMenuId=PC&secondMenuId=PCRI03&menuId=PCRI03&'+
+            'statementId=PCRI03_%232'+
+            '&electionCode=2&cityCode=0&sggCityCode=0&townCode=-1&sggTownCode=0&x=29&y=15'
 
 # 후보 통계 페이지
 CANDI_SUM = '/electioninfo/electionInfo_report.xhtml'+
@@ -40,6 +38,8 @@ CANDI_SUM = '/electioninfo/electionInfo_report.xhtml'+
 
 
 STDERR.puts "retreiving : http://#{NEC_SERVER}#{CANDI_LIST}"
+#http = Net::HTTP.new(NEC_SERVER, 80)
+#http.read_timeout = 500
 list_html   = Net::HTTP.get(NEC_SERVER, CANDI_LIST)
 list_doc    = Nokogiri::HTML(list_html)
 
