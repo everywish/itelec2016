@@ -77,8 +77,9 @@ cities.each do |city, cityname|
       #h[:id]              = photo.scan( /\/gicho\/(.+)\./).first[0].to_s
       #STDERR.puts candi_array.at(2).to_s
       #STDERR.puts candi_array.at(3).to_s
-      h[:id]              = candi_array.at(3).to_s.scan( /popupPreHBJ\((.+)/)[0].to_s.split("'")[3]
+      h[:id]              = candi_array.at(4).to_s.scan( /popupHBJ\((.+)/)[0].to_s.split("'")[3]
       #STDERR.puts h[:id]
+      #exit
       
       # Sd 가 시도를 의미하고, 뒤의 숫자와 select#cityCode 의 숫자를 이용하면 시도이름을 얻을 수 있다.
 
