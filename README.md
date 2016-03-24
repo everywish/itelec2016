@@ -10,9 +10,9 @@
 
 원자료:
 
-http://info.nec.go.kr/main/showDocument.xhtml?electionId=0020160413&topMenuId=PC&secondMenuId=PCRI03
+http://info.nec.go.kr/main/showDocument.xhtml?electionId=0020160413&topMenuId=CP&secondMenuId=CPRI03
 
-원자료에는 예비후보 목록을 HTML table 로만 제공하시네요.
+원자료에는 후보 목록을 HTML table 로만 제공하시네요.
 JSON이나 XML로도 제공하시면 가공이 편리합니다.
 
 
