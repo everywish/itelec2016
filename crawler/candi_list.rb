@@ -22,10 +22,10 @@ PIC_PREFIX= "http://#{NEC_SERVER}"
 # 후보 목록 페이지
 CANDI_LIST= '/electioninfo/electionInfo_report.xhtml'+
             '?electionId=0020160413&'+
-            'requestURI=%2FWEB-INF%2Fjsp%2Felectioninfo%2F0020160413%2Fpc%2Fpcri03_ex.jsp'+
-            '&topMenuId=PC&secondMenuId=PCRI03&menuId=PCRI03&'+
-            'statementId=PCRI03_%232'+
-            '&electionCode=2&cityCode=0&sggCityCode=0&townCode=-1&sggTownCode=0&x=29&y=15'
+            'requestURI=%2FWEB-INF%2Fjsp%2Felectioninfo%2F0020160413%2Fpc%2Fpcri03_ex.jsp&'+
+            'topMenuId=PC&secondMenuId=PCRI03&menuId=PCRI03&'+
+            'statementId=PCRI03_%232&'+
+            'electionCode=2&cityCode=0&sggCityCode=0&townCode=-1&sggTownCode=0&x=29&y=15'
 
 CANDI_LIST= "/electioninfo/electionInfo_report.xhtml"+
             "?electionId=0020160413&"+
@@ -33,6 +33,13 @@ CANDI_LIST= "/electioninfo/electionInfo_report.xhtml"+
             "topMenuId=CP&secondMenuId=CPRI03&menuId=CPRI03&"+
             "statementId=CPRI03_%232&"+
             "electionCode=2&sggCityCode=0&cityCode="
+
+CANDI_LISTZ='/electioninfo/electionInfo_report.xhtml?'+
+            'electionId=0020160413&'+
+            'requestURI=%2FWEB-INF%2Fjsp%2Felectioninfo%2F0020160413%2Fcp%2Fcpri03.jsp&'+
+            'topMenuId=CP&secondMenuId=CPRI03&menuId=CPRI03&'+
+            'statementId=CPRI03_%237&'+
+            'electionCode=7&cityCode=-1'
 
 
 # 후보 통계 페이지
@@ -46,17 +53,25 @@ CANDI_SUM = '/electioninfo/electionInfo_report.xhtml'+
 cities = {'1100'=> "서울특별시", '2600'=> "부산광역시", '2700'=> "대구광역시", 
           '2800'=> "인천광역시", '2900'=> "광주광역시", '3000'=> "대전광역시", 
           '3100'=> "울산광역시", '5100'=> "세종특별자치시", '4100'=> "경기도", 
-          '4200'=> "강원도",     '4300'=> "충청북도", '4400'=> "충청남도", '4500'=> "전라북도", 
-          '4600'=> "전라남도",   '4700'=> "경상북도", '4800'=> "경상남도", '4900'=> "제주특별자치도"}
+          '4200'=> "강원도",     '4300'=> "충청북도", '4400'=> "충청남도", 
+          '4500'=> "전라북도",   '4600'=> "전라남도", '4700'=> "경상북도", 
+          '4800'=> "경상남도", '4900'=> "제주특별자치도", '9999'=>'비례대표'}
 
 candi_list  = []
 
 cities.each do |city, cityname|
 
-  STDERR.puts "retreiving : http://#{NEC_SERVER}#{CANDI_LIST}"+city.to_s
+  url = CANDI_LIST+city.to_s
+
+  if city=='9999'
+    url = CANDI_LISTZ
+  end
+  
+
+  STDERR.puts "retreiving : http://#{NEC_SERVER}#{url}"
   #http = Net::HTTP.new(NEC_SERVER, 80)
   #http.read_timeout = 500
-  list_html   = Net::HTTP.get(NEC_SERVER, CANDI_LIST+city.to_s)
+  list_html   = Net::HTTP.get(NEC_SERVER, url)
   list_doc    = Nokogiri::HTML(list_html)
 
   # 2016 선거구 목록 가져오기
@@ -89,6 +104,7 @@ cities.each do |city, cityname|
       h[:district]        = candi_array.at(0).content
       h[:district_long]   = "#{h[:city]}/#{h[:district]}"
       h[:picture]         = PIC_PREFIX+candi_array.at(1).children[1].attribute_nodes[1] if photo
+      h[:order]           = candi_array.at(2).content
       h[:party]           = candi_array.at(3).content
       h[:name]            = candi_array.at(4).content.strip 
       h[:gender]          = candi_array.at(5).content.strip
