@@ -113,7 +113,7 @@ cities.each do |city, cityname|
           STDERR.puts candi_array
           STDERR.puts photo
           STDERR.puts h
-          exit
+          #exit
         end
       else
         photo = candi_array.at(1).children[1].attribute_nodes[1].to_s if candi_array.at(1).children[1]
@@ -128,7 +128,7 @@ cities.each do |city, cityname|
           STDERR.puts candi_array
           STDERR.puts photo
           STDERR.puts h
-          exit
+          #exit
         end
       end
       h[:name]            = candi_array.at(4).content.strip 
