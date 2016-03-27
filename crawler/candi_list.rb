@@ -108,11 +108,27 @@ cities.each do |city, cityname|
         h[:order]           = candi_array.at(3).content
         h[:party]           = candi_array.at(2).content.split('(')[0]
         h[:picture]         = PIC_PREFIX+candi_array.at(1).children[1].attribute_nodes[1] if photo
+        if h[:picture].nil? or h[:picture].size<=1
+          STDERR.puts "1"
+          STDERR.puts candi_array
+          STDERR.puts photo
+          STDERR.puts h
+          exit
+        end
       else
-        photo = candi_array.at(2).children[1].attribute_nodes[1].to_s if candi_array.at(2).children[1]
+        photo = candi_array.at(1).children[1].attribute_nodes[1].to_s if candi_array.at(1).children[1]
         h[:order]           = candi_array.at(2).content
         h[:party]           = candi_array.at(3).content
         h[:picture]         = PIC_PREFIX+candi_array.at(1).children[1].attribute_nodes[1] if photo
+        if h[:picture].nil? or h[:picture].size<=1
+          STDERR.puts "=="+candi_array.at(0)+"=="
+          STDERR.puts candi_array.at(0)
+          STDERR.puts "2"
+          STDERR.puts candi_array
+          STDERR.puts photo
+          STDERR.puts h
+          exit
+        end
       end
       h[:name]            = candi_array.at(4).content.strip 
       h[:gender]          = candi_array.at(5).content.strip
