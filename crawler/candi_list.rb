@@ -104,7 +104,7 @@ cities.each do |city, cityname|
       h[:district_long]   = "#{h[:city]}/#{h[:district]}"
 
       if city=='9999'
-        photo = candi_array.at(2).children[1].attribute_nodes[1].to_s if candi_array.at(2).children[1]
+        photo = candi_array.at(1).children[1].attribute_nodes[1].to_s if candi_array.at(1).children[1]
         h[:order]           = candi_array.at(3).content
         h[:party]           = candi_array.at(2).content.split('(')[0]
         h[:picture]         = PIC_PREFIX+candi_array.at(1).children[1].attribute_nodes[1] if photo
