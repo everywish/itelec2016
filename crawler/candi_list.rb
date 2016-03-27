@@ -84,7 +84,6 @@ cities.each do |city, cityname|
       next if candi_array.to_s.include?('검색된 결과가 없습니다.')
       #STDERR.puts candi_array
       #exit
-      photo = candi_array.at(2).children[1].attribute_nodes[1].to_s if candi_array.at(2).children[1]
 
       # 맨 뒤의 파일이름이 후보의 유니크 아이디인 듯.
       # photo = http://info.nec.go.kr/photo_20160413/Sd1100/Gsg1101/Sgg2110101/Hb100118435/gicho/100118435.jpg
@@ -103,14 +102,17 @@ cities.each do |city, cityname|
 
       h[:district]        = candi_array.at(0).content
       h[:district_long]   = "#{h[:city]}/#{h[:district]}"
-      h[:picture]         = PIC_PREFIX+candi_array.at(1).children[1].attribute_nodes[1] if photo
 
       if city=='9999'
+        photo = candi_array.at(2).children[1].attribute_nodes[1].to_s if candi_array.at(2).children[1]
         h[:order]           = candi_array.at(3).content
         h[:party]           = candi_array.at(2).content.split('(')[0]
+        h[:picture]         = PIC_PREFIX+candi_array.at(1).children[1].attribute_nodes[1] if photo
       else
+        photo = candi_array.at(2).children[1].attribute_nodes[1].to_s if candi_array.at(2).children[1]
         h[:order]           = candi_array.at(2).content
         h[:party]           = candi_array.at(3).content
+        h[:picture]         = PIC_PREFIX+candi_array.at(1).children[1].attribute_nodes[1] if photo
       end
       h[:name]            = candi_array.at(4).content.strip 
       h[:gender]          = candi_array.at(5).content.strip
