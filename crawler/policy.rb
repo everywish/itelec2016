@@ -41,7 +41,7 @@ begin
     found += 1
     policy_for_korean_people[necid] = pdf
   end
-	page += 1
+  page += 1
 
 end while found == PER_PAGE
 
