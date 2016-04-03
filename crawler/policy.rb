@@ -21,19 +21,15 @@ policy_for_korean_people = {}
 begin 
 	url = POLICY_PAGE+page.to_s
   STDERR.puts "retreiving : http://#{NEC_SERVER}#{url}"
-  #http = Net::HTTP.new(NEC_SERVER, 80)
-  #http.read_timeout = 500
   list_html   = Net::HTTP.get(NEC_SERVER, url)
   list_doc    = Nokogiri::HTML(list_html)
-	#puts list_html
 
 	found = 0
   list_doc.css("ul.candiList").css("div.content").each do |cont|
 		necid = cont.css('img')[0].to_s.split('/')[3].split('.')[0]
-		#puts necid
 		pdf = cont.to_s.split("modalPop('/data/")[1].split("'")[0]
 		pdf = "http://"+NEC_SERVER+"/data/"+pdf
-		#puts pdf
+
 		found += 1
 		policy_for_korean_people[necid] = pdf
 	end
