@@ -28,6 +28,14 @@ begin
   list_doc.css("ul.candiList").css("div.content").each do |cont|
 		necid = cont.css('img')[0].to_s.split('/')[3].split('.')[0]
 		pdf = cont.to_s.split("modalPop('/data/")[1].split("'")[0]
+
+		Net::HTTP.start(NEC_SERVER) do |http|
+				resp = http.get("/data/"+pdf)
+				open("output/"+necid+".pdf", "wb") do |file|
+						file.write(resp.body)
+				end
+		end
+
 		pdf = "http://"+NEC_SERVER+"/data/"+pdf
 
 		found += 1

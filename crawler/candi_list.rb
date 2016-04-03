@@ -132,6 +132,7 @@ cities.each do |city, cityname|
         end
       end
       h[:name]            = candi_array.at(4).content.strip 
+			h[:name] 						= h[:name].gsub(/공약보기/,'').strip
       h[:gender]          = candi_array.at(5).content.strip
       h[:age]             = candi_array.at(6).content      
       h[:address]         = candi_array.at(7).content      
