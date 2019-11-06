@@ -4,8 +4,6 @@
 
 본 프로젝트는 크롤러등의 스크립트 모음입니다. 
 
-스크립트를 사용하기 힘들고, 최신 JSON 자료만 필요한 분은 http://itelec2016.herokuapp.com 을 이용해주세요.
-
 # candi json 
 
 원자료:
